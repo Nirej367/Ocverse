@@ -12,6 +12,6 @@ Su interés por la alquimia vino dado por esto, para poder encontrar un remedio 
 
 Estudió magia teniendo a [[Marchitte]] como profesora en la [[Universidad de Magia del Bosque de las Tres Lunas]], y esta lo vio tan capacitado que le aconsejó estudiar con el anterior jefe de la [[Cafilla de las Margaritas]].
 
-Cuando el jefe de la cafilla murió, considerando a Ellisium el mejor heredero, le entregó el control sobre la cafilla y las [[|tres ciudades]] de [[Pradera Lustrosa]]. Ellisium se consagró como un explorador experto en bestias porque, si algo positivo le había dado su maldición, era la capacidad innata de hablar con ellas y entenderlas. Así, Ellisium fue adoptando cada vez más bestias con las que simpatizaba por su parecido con él.
+Cuando el jefe de la cafilla murió, considerando a Ellisium el mejor heredero, le entregó el control sobre la cafilla y las tres ciudades de [[Pradera Lustrosa]]. Ellisium se consagró como un explorador experto en bestias porque, si algo positivo le había dado su maldición, era la capacidad innata de hablar con ellas y entenderlas. Así, Ellisium fue adoptando cada vez más bestias con las que simpatizaba por su parecido con él.
 
-Poco después, su hermano menor [[Hydregia]], intentando convencer a Ellisium de volver a su hogar y recuperar el trono de Rosselldrem, se muda a Pradera con él, pero su estancia termina prolongándose en el toempo
+Poco después, su hermano menor [[Hydregia]], intentando convencer a Ellisium de volver a su hogar y recuperar el trono de [[Rosselldrem]], se muda a Pradera con él, pero su estancia termina prolongándose en el tiempo.

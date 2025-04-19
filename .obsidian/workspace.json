@@ -25,16 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triptico/Ellisium.md",
+                "file": "Pradera Lustrosa.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ellisium"
+              "title": "Pradera Lustrosa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,9 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a734894cea75d83c",
+  "active": "b6c7e293e19868dc",
   "lastOpenFiles": [
-    "Cheatsheet.md",
-    "Triptico/Ellisium.md"
+    "Pradera Lustrosa.md",
+    "Triptico/Ellisium.md",
+    "Cheatsheet.md"
   ]
 }
