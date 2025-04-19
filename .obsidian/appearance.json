@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "Justify"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 20
+}
