@@ -23,4 +23,4 @@ Poco después, su hermano menor [[Hydregia]], intentando convencer a Ellisium de
 
 A Ellisium todavía le cuesta mantener el 100% del control de su forma de lamia, pues cuando la tiene activa se despiertan en él instintos que no llega a comprender. Sin embargo, por lo general, la noche de luna nueva permanece encerrado en casa, atado y protegido por sus bestias. No obstante, esas noches, como a cualquier bestia, la mas mínima alteración en la magia a su alrededor modifica su carácter, y desde que el [[Jardín]] comenzó a alterarse le está costando mantener el control de esa forma.
 
-Test
+
