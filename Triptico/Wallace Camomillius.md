@@ -2,7 +2,7 @@
 aliases:
   - Wallace
 ---
-#Circle_of_the_stars #Druid #Eladrin #Cursed
+#Circle_of_the_stars #Druid #Eladrin #Yeskuá #Cursed
 
 ![[Wallace Camomillius.jpg]]
 
