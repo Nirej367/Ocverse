@@ -1,3 +1,3 @@
 # Ignore Obsidian user-specific settings
-.obsidianworkspace.json
-.obsidianworkspace-mobile.json
+**/workspace.json
+**/workspace-mobile.json
