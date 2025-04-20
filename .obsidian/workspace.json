@@ -17,6 +17,7 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
+<<<<<<< Updated upstream
             }
           },
           {
@@ -31,6 +32,8 @@
               },
               "icon": "lucide-file",
               "title": "Finaïvel Camomillius"
+=======
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -187,6 +190,7 @@
   },
   "active": "8ab0f9db57397f8d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Triptico/Ellisium Ehroan-Shandhalarum.md",
     "Triptico/Bosque de las Tres Lunas.md",
     "Triptico/Almendra.md",
@@ -195,11 +199,18 @@
     "Triptico/Wallace Camomillius.md",
     "Galería/Finaïvel.jpg",
     "Triptico/Finaïvel Camomillius.md",
+=======
+    "Triptico/Ellisium.md",
+    "Pradera Lustrosa.md",
+    "Triptico/Wallace Camomillius.md",
+    "Triptico/Pradera Lustrosa.md",
+>>>>>>> Stashed changes
     "Triptico/Nukke Manlin.md",
     "Triptico/NovaiLerna.md",
     "Triptico/Maïala Camomillius.md",
     "Triptico/Los Camomillius.md",
     "Triptico/Fordinlord Camomillius.md",
+<<<<<<< Updated upstream
     "Triptico/Elementales.md",
     "Galería/Maïala.jpg",
     "Galería/Fordinlord.jpg",
@@ -211,5 +222,24 @@
     "Galería/Wallace Camomillius.jpg",
     "Galería/Ellisium.jpg",
     "Galería"
+=======
+    "Triptico/Ellisium Ehroan-Shandhalarum.md",
+    "Triptico/Elementales.md",
+    "Triptico/Bosque de las Tres Lunas.md",
+    "Triptico/Avellana.md",
+    "Triptico/Almendra.md",
+    "Galería/Wallace Camomillius.jpg",
+    "Galería/Maïala.jpg",
+    "Galería/Mapa estelar de Wallace.jpg",
+    "Galería/Fordinlord.jpg",
+    "Galería/Ellisium.jpg",
+    "Galería/Camomillius House_Dm_map.jpg",
+    "Galería/Avellana.jpg",
+    "Galería/Almendra.jpg",
+    "Galería",
+    "Finaïvel.jpg",
+    "Finaïvel Camomillius.md",
+    "Cheatsheet.md"
+>>>>>>> Stashed changes
   ]
 }
