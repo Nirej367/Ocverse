@@ -1,3 +1,10 @@
+---
+aliases: 
+Clase: 
+Subclass: 
+tags:
+  - Example
+---
 #### Headers
 # H1
 ## H2

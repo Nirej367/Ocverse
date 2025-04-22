@@ -1,9 +1,13 @@
 ---
 aliases:
   - Wallace
+Clase: Druid
+Subclass: Circle of the stars
+tags:
+  - Eladrin
+  - Yeskuá
+  - Cursed
 ---
-#Circle_of_the_stars #Druid #Eladrin #Yeskuá #Cursed
-
 ![[Wallace Camomillius.jpg]]
 
 # Identidad y Trasfondo 
