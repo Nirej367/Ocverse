@@ -1,5 +1,10 @@
-#Lore #Worldbuilding
-
+---
+aliases: 
+Clase: 
+Subclass: 
+tags:
+  - Family
+---
 # Familia Camomillius 
 
 La familia tiene el apellido de Camomillius. Son la única familia de Eladrin dentro de [[Rosselldrem]]. 
