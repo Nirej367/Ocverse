@@ -1,14 +1,16 @@
 ---
+aliases:
+  - Bat
 tags:
   - Lore
   - Deity
 ---
 ![[Zotz (2).jpg]]
 
-Zotz es una [[Celestines|espiritu celeste]] que fue corrompido. Actualmente reside preso en el interior de la umbra profunda custodiado por la diosa [[Ananasi]]. 
+Zotz es una [[Spirits|espiritu]] que fue corrompido. Actualmente reside preso en el interior de la umbra profunda custodiado por la diosa [[Ananasi]].
 # Overview
 ---
-Durante los eventos de la [[War of Rage|guerra de la rabia]], los [[Garou]] diezmaron a los [[Camazotz]] casi en su totalidad, sin capacidad de poder recuperarse. Para entonces, las influencias del [[Wyrm]] alcanzaron la inestable alma de la deidad, aprovechandose de sus heridas y la profunda tristeza que sentía ante sus hijos muertos. La deidad, en su incapacidad para sanar y tomar acciones que no pusieran en peligro al resto de espiritus, se astilló de tal forma que una pequeña parte de él pudiera descansar y recobrar fuerzas lejos de la influencia del [[Triat]], donde ningún otro espiritu pudiera aprovecharse de su estado, viajando por la [[Deep Umbra|umbra profunda]] hasta alcanzar [[Moonwood]].
+Durante los eventos de la [[War of Rage|guerra de la rabia]], los [[Garou]] diezmaron a los [[Camazotz]] casi en su totalidad, sin capacidad de poder recuperarse. Para entonces, las influencias del [[Wyrm]] alcanzaron la inestable alma de la deidad, aprovechandose de sus heridas y la profunda tristeza que sentía ante sus hijos muertos. La deidad, en su incapacidad para sanar y tomar acciones que no pusieran en peligro al resto de espiritus, se astilló de tal forma que una pequeña parte de él pudiera descansar y recobrar fuerzas lejos de la influencia del [[Triat]], donde ningún otro espiritu pudiera aprovecharse de su estado, viajando por la [[Cognitive Realm|umbra profunda]] hasta alcanzar [[Moonwood]].
 
 Para cuando la se produjo la separación, la deida dejó atrás un cuerpo dolorído lleno de [[Rage|rabia]] sin control. Para mantenerlo a raya y evitar que el [[Wyrm]] pudiera utilizar su cuerpo como un instrumento, [[Ananasa]] apresó el cuerpo y se mantiene hasta la actualidad como custodia.
 
