@@ -6,7 +6,7 @@ Subclass: Path of the World Tree
 tags:
   - Camazotz
 ---
-![[Marcus_Mooney .jpg]]
+![[Marcus Mooney.jpg]]
 
 Marcus Mooney es estudiante de Filosofía y Letras en "The Honourable Society of the Middle Temple" en Londres, Inglaterra. Pertenece a un casi extinto grupo de [[Fera|cambia pieles]] ligado a los [[Camazotz|murcielagos]]. 
 # Appearance

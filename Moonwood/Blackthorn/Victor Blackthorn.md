@@ -8,7 +8,7 @@ tags:
   - Witchcraft
   - Cursed
 ---
-![[Victor Blackwood.png]]
+![[Victor Blackthorn.png]]
 
 Victor Blackthorne, primer hijo primogénito de la actual casa Blackthorne y hermano mayo de [[Cloe Sheridan|Cloe]].
 # Appearance

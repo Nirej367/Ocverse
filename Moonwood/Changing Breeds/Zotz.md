@@ -3,7 +3,7 @@ tags:
   - Lore
   - Deity
 ---
-![[Essence-Channeler-Bloomburrow-MtG-Art.jpg]]
+![[Zotz (2).jpg]]
 
 Zotz es una [[Celestines|espiritu celeste]] que fue corrompido. Actualmente reside preso en el interior de la umbra profunda custodiado por la diosa [[Ananasi]]. 
 # Overview
@@ -17,4 +17,4 @@ Tras 5 siglos de larga recuperación, Zotz vuelve a tener capacidad para engendr
 ---
 Para el resto de los Fera, solo queda el recuerdo de un espiritu que ha traicionado a [[Gaia]], aliandose con sus enemigos. Las historias que se cuentan de Zotz lo describen como un bromista, gloton, asesino y traidor. Sin embargo, pese a su estrecha relacion con los [[Black Spiral Dancers|danzantes de la espiral negra]], otros todavía se atreven a seguir sus promesas de fortuna, poder e inmortalidad si son capaces de encontrarle y liberarle de su condena.
 
-![[Aclazotz-real (1).png]]
+![[Zotz (1).png]]
