@@ -7,3 +7,4 @@ tags:
   - Stars
   - Fey
 ---
+A su muerte, acompañará a [[Rhys Doe]] al [[Triptico]]. Eventualmente, su alma adoptará la forma de [[Ellisium Ehroan-Shandhalarum|Ellisium]].

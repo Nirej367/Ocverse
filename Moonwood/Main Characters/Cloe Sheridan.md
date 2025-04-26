@@ -28,7 +28,7 @@ Amelia Blackthorn nació en el seno de una de las familias de magos más antigua
 Desde entonces, ha dejado atrás su apellido y vive bajo la identidad de **Cloe Sheridan**, trabajando como detective en Londres. Utiliza su magia con extrema cautela, sabiendo que cualquier error podría delatarla.
 ## Future
 
-A su muerte, acompañará a Rhys al Triptico. Eventualmente, su alma adoptará la forma de [[Ellan-Thys Quebrantavientos]]
+A su muerte, acompañará a [[Rhys Doe]] al [[Triptico]]. Eventualmente, su alma adoptará la forma de [[Ellan-Thys Quebrantavientos]]
 # Relationship
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
