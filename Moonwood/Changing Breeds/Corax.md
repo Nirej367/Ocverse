@@ -12,4 +12,4 @@ Corax are well known for flying, talking (and talking, and talking...), performi
 
 Corax do have [[Rage]], but they rarely develop it and are not known for the kind of violent outbursts that plague the Garou. They begin life with more [[Investiture|Gnosis]] than most Garou, though they are usually forced to barter favors and information for access to [[Caern]]s. While Corax are able to breed with humans or ravens, new Corax are only created by the [[Rite of the Fetish Egg]]. This ritual is very taxing to the parent and will automatically fail if attempted on the child of two Corax.
 
-All Corax have [[Raven]] as a [[Totem]] and their bond with [[Helios]] is similar to the one shared between the Garou and [[Selene|Luna]]. They adore shiny and sparkly things.
+All Corax have [[Raven]] as a [[Spirits#Patron Spirits|Patron Spirits]] and their bond with [[Helios]] is similar to the one shared between the [[Garou]] and [[Selene|Luna]]. They adore shiny and sparkly things.
