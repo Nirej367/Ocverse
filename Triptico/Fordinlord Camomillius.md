@@ -9,3 +9,7 @@ aliases:
 Tras su muerte, los más pequeños lo pasaron bastante mal y aún esperan que papá vuelva, [[Jírkamo Camomillius|Jírkamo]] se volvió más rebelde y agresivo, [[Letsfell Camomillius|Letsfell]] también, [[Finaïvel Camomillius|Finaïvel]] ha llorado mucho (es el más sensible), [[Myrdriella Camomillius|Myrdriella]] se intenta hacer la fuerte y [[Hontsitt Camomillius|Hontsitt]] lo lleva en silencio.
 
 ![[Fordinlord.jpg]]
+# Trivia
+
+- Es asociado con la figura del Zorro
+- Es asociado con las Dedaleras
