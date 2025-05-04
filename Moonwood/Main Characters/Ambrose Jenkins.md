@@ -10,7 +10,9 @@ tags:
 ---
 ![[Ambrose Jenkins.jpg]]
 
-**Ambrose Jenkins** es un joven noble de origen [[Mundane|mundano]]. Forma parte de la familia Jenkins. Criado bajo estrictas normas, Ambrose desarrolló una personalidad reservada y estoica, afectada por la falta de afecto familiar, en especial la preferencia evidente hacia su hermana mayor, [[Alaina Jenkins]]. Tras un despertar complicado, ahora empieza una nueva vida sin su familia, formando parte del mundo feérico como un [[Elementals (Moonwood)|elemental]] solar y un [[Black Mask|poderoso artefacto a su lado]].
+**Ambrose Jenkins** es un joven noble de origen [[Mundane|mundano]]. Forma parte de la familia [[Jenkins]]. Criado bajo estrictas normas, Ambrose desarrolló una personalidad reservada y estoica, afectada por la falta de afecto familiar, en especial la preferencia evidente hacia su hermana mayor, [[Alaina Jenkins]]. 
+
+Tras un despertar complicado, ahora empieza una nueva vida sin su familia, formando parte del mundo feérico como un [[Elementals (Moonwood)|elemental]] solar y un [[Black Mask|poderoso artefacto a su lado]], siguiendo la pista de [[Nameless Sun|antiguas criaturas]].
 # Appearance
 ---
 ## Mundano
