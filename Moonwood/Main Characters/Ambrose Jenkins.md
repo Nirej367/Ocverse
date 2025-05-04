@@ -54,7 +54,7 @@ Para cuando pudieron encontrarlo, Ambrose había desaparecido por completo, domi
 
 Hasta el momento, [[Ciara Jenkins]], [[Maximillian Jenkins]] y [[Alaina Jenkins]] se encuentran muertos.
 
-Despertó relativamente poco después de su rescate, gracias a las llamas de [[Cloe Sheridan|Cloe]] y la radiancia de [[Rhys Doe|Rhys]]. En su despertar, solo recuerda haber hablado con alguien que insistía en llevarlo a algún lugar con urgencia, alegando que necesitaba su ayuda. Aunque tenía la sensación de conocerlo de antes, aún no está seguro de quién era. Lo siguió fuera del campus universitario, donde fue atropellado por un coche. Lo último que recuerda son las luces de los faros y un dolor punzante en la cabeza.
+[[Chrysalis|Despertó]] relativamente poco después de su rescate, gracias a las llamas de [[Cloe Sheridan|Cloe]] y la radiancia de [[Rhys Doe|Rhys]]. En su despertar, solo recuerda haber hablado con alguien que insistía en llevarlo a algún lugar con urgencia, alegando que necesitaba su ayuda. Aunque tenía la sensación de conocerlo de antes, aún no está seguro de quién era. Lo siguió fuera del campus universitario, donde fue atropellado por un coche. Lo último que recuerda son las luces de los faros y un dolor punzante en la cabeza.
 ## Future
 ---
 A su muerte, acompañará a [[Rhys Doe]] al [[Triptico]]. Eventualmente, su alma adoptará la forma de [[Ravin Dra' Bhaskara]]
