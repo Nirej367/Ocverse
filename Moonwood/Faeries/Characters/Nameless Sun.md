@@ -15,7 +15,7 @@ tags:
 
 Lumière es la imagen de un clérigo cuya divinidad se manifiesta con silencio, tacto, y una luz que apenas comienza a desvanecerse. Es un puente viviente entre lo mundano y lo sagrado, entre lo que se ve y lo que se oculta bajo la máscara.
 
-Siguiendo los pasos del Camino Radiante, juró sus votos ante una nueva luz perdida "[[Black Mask|Suraj]]". A través del tejido, Lumière canaliza magia divina, sin saber que la fuente de su poder está lejos de ser celestial.
+Siguiendo los pasos del Camino Radiante, juró sus votos ante una nueva luz perdida "[[Suraj|Suraj]]". A través del tejido, Lumière canaliza magia divina, sin saber que la fuente de su poder está lejos de ser celestial.
 
 # Appearance
 ---
