@@ -20,5 +20,5 @@ The Elementals are further removed from humanity than other changelings, and fin
 # Known Elementals
 ---
 - [[Ambrose Jenkins]]
-- [[Rhys Doe]]
-- [[Elliot Starling]]
+- [[Ualatif Llharrorgorhadimbhor-Velmann]]
+- [[Elliot Sterling]]

@@ -39,11 +39,11 @@ La combinación de afecto, expectativas silenciosas y el deseo de encontrar su p
 Desde que la [[Curse of the Sleeping|maldición del ensueño]] afectó a Londres, Marcus a experimentado severos cambios. Para entonces, vivía como un [[Fera]] que no había experimentado su [[First Change|primer cambio]]. No obstante, tras encontrarse en una situación de estrés en el [[Cognitive Realm]], su bestia interior tomó posesión de su cuerpo, golpeando sin control a todo lo que se le acercara.
 ### La maldición del Ensueño
 ---
-Las primeras investigaciones de la detective [[Cloe Sheridan|Cloe]] la llevaron a contactar con Marcus poco antes del casteo de la maldición. Poco después se reunieron con [[Elliot Starling|Elliot]] en un intento de poder defenderse de [[Zombie]]s. Para cuando fueron conscientes, todos estaban en la [[Cognitive Realm|Umbra]]. Poco despues de resolver el problema de los zombies, tuvieron que escapar de un parque lleno de criaturas que asaltaban a dos feérico enormes, [[Alaina Jenkins|The Beetle Queen]] y [[Ambrose Jenkins|The Radiant Beast]]. Marcus tuvo que enfrentar un momento de gran tensión que le llevó a superar su [[First Change|primer cambio]] completamente descontrolado. Afortunadamente, [[Elliot Starling]] fue capaz de calmar la bestia salvaje de su intenrior.
+Las primeras investigaciones de la detective [[Cloe Sheridan|Cloe]] la llevaron a contactar con Marcus poco antes del casteo de la maldición. Poco después se reunieron con [[Elliot Sterling|Elliot]] en un intento de poder defenderse de [[Zombie]]s. Para cuando fueron conscientes, todos estaban en la [[Cognitive Realm|Umbra]]. Poco despues de resolver el problema de los zombies, tuvieron que escapar de un parque lleno de criaturas que asaltaban a dos feérico enormes, [[Alaina Jenkins|The Beetle Queen]] y [[Ambrose Jenkins|The Radiant Beast]]. Marcus tuvo que enfrentar un momento de gran tensión que le llevó a superar su [[First Change|primer cambio]] completamente descontrolado. Afortunadamente, [[Elliot Sterling]] fue capaz de calmar la bestia salvaje de su intenrior.
 
 ## Future
 ---
-A su muerte, su alma acompañará a [[Rhys Doe]] al [[Triptico]]. Se reencarnará en [[Wallace Camomillius|Wallace]]
+A su muerte, su alma acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Se reencarnará en [[Wallace Camomillius|Wallace]]
 
 # Relationship
 ---
@@ -55,8 +55,8 @@ Su relacion con su padre en la actualidad es poco profunda, una relación de cor
 
 Marcus intenta comportarse con educación y muy firme delante de su padre. Entiende que hay que comportarse de una forma muy concreta frente a su figura paterna aunque no tendría porque hacerlo. Su padre pese a estar conforme, se siente algo frustrado de que su hijo no pueda abrise mas con él. Tienen pequeños gestos como actos de servicio o regalos pero no suplen su necesidad comunicación.
 ## [[Margaret Mooney]]
-## [[Elliot Starling]]
-## [[Rhys Doe]]
+## [[Elliot Sterling]]
+## [[Ualatif Llharrorgorhadimbhor-Velmann]]
 ## [[Ambrose Jenkins]]
 ## [[Cloe Sheridan]]
 
