@@ -8,7 +8,7 @@ tags:
 ---
 ![[Marcus Mooney.jpg]]
 
-Marcus Mooney es estudiante de Filosofía y Letras en "The Honourable Society of the Middle Temple" en Londres, Inglaterra. Pertenece a un casi extinto grupo de [[Fera|cambia pieles]] ligado a los [[Camazotz|murcielagos]]. 
+Marcus Mooney es estudiante de Filosofía y Letras en "[[The Honourable Society of the Middle Temple]]" en Londres, Inglaterra. Pertenece a un casi extinto grupo de [[Fera|cambia pieles]] ligado a los [[Camazotz|murcielagos]]. 
 # Appearance
 ---
 Marcus Mooney es un joven de porte sereno y refinado. Tiene el cabello castaño claro, peinado con volumen y un toque despreocupado que le da una apariencia juvenil. Su rostro de facciones suaves y piel clara está enmarcado por unas gafas redondas de estilo clásico, que refuerzan su aire intelectual.

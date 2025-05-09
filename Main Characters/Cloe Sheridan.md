@@ -26,9 +26,11 @@ WIP
 Amelia Blackthorn nació en el seno de una de las familias de magos más antigua, los [[Blackthorn]]. Desde muy temprana edad, las altas expectativas presionaron con dureza la personalidad de Amelia y su [[Victor Blackthorn|hermano]]. Amelia lo admiraba profundamente, y durante años trató de seguir sus pasos. Sin embargo, la familia fue corrompiendo lentamente sus mentes, inculcándoles una obsesión por el poder y el prestigio hasta el punto de querer asesinar a una casa rival de hechizeros, causando un punto de inflexión en la vida de Amelia cuando su hermano se unió a la causa sin remordimiento. Decidida a impedir la masacre, robó el [[Book of Shadows|grimorio familiar]] que contenía antiguos y peligrosos hechizos prohibidos.
 
 Desde entonces, ha dejado atrás su apellido y vive bajo la identidad de **Cloe Sheridan**, trabajando como detective en Londres. Utiliza su magia con extrema cautela, sabiendo que cualquier error podría delatarla.
+
+Realiza con frecuencia diferentes trabajos para los vecinos del bloque, especialmente a [[Miss Obrayan]] hasta que desapareció recientemente. Ahora cuida a su [[Timoteo III|gato]] en su lugar.
 ## Future
 
-A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Triptico]]. Eventualmente, su alma adoptará la forma de [[Ellan-Thys Quebrantavientos]]
+A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Eventualmente, su alma adoptará la forma de [[Ellan-Thys Quebrantavientos]]
 # Relationship
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.

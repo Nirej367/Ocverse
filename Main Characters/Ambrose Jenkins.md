@@ -35,7 +35,7 @@ Ambrose es un joven de carácter frío y estoico, alguien que aprendió a callar
 
 A diferencia del resto de los suyos, Ambrose poseía una sensibilidad que tuvo que ocultar para sobrevivir en un entorno donde soñar era considerado una debilidad. Fingió tener los pies en la tierra, fingió que no le importaba la mayoría de injusticias a su alrededor, fingió encajar para sobrevivir en una falta de tacto enorme. 
 
-En su interior, sin embargo, guardaba un mundo entero de fantasía: encontraba refugio en los cuentos de hadas, en los mitos y las leyendas. Las antigüedades familiares, heredadas más por descuido que por estima, se convirtieron en sus tesoros personales. Una vieja empuñadura de madera lo acompañó durante su adolescencia, cuando practicaba esgrima en secreto cuando todavía cursaba el instituto (aunque tuvo que dejarlo cuando se matriculó en la universidad), soñando con hazañas heroicas muy distintas a las que su familia esperaba de él.
+En su interior, sin embargo, guardaba un mundo entero de fantasía: encontraba refugio en los cuentos de hadas, en los mitos y las leyendas. Las antigüedades familiares, heredadas más por descuido que por estima, se convirtieron en sus tesoros personales. Una vieja empuñadura de madera lo acompañó durante su adolescencia, cuando practicaba esgrima en secreto cuando todavía cursaba el instituto (aunque tuvo que dejarlo cuando se matriculó en la [[The Honourable Society of the Middle Temple|universidad]]), soñando con hazañas heroicas muy distintas a las que su familia esperaba de él.
 
 Ambrose es mucho más empático y emocional de lo que deja ver. Humilde a pesar de sus orígenes, busca en la soledad momentos de autenticidad, lejos del peso de las expectativas. Sus emociones están cuidadosamente protegidas bajo capas de seriedad, pero quienes logran atravesarlas descubren a un alma honesta y leal, que busca brillar mas que nunca.
 # Biography
@@ -54,10 +54,10 @@ Para cuando pudieron encontrarlo, Ambrose había desaparecido por completo, domi
 
 Hasta el momento, [[Ciara Jenkins]], [[Maximillian Jenkins]] y [[Alaina Jenkins]] se encuentran muertos.
 
-[[Chrysalis|Despertó]] relativamente poco después de su rescate, gracias a las llamas de [[Cloe Sheridan|Cloe]] y la radiancia de [[Ualatif Llharrorgorhadimbhor-Velmann|Rhys]]. En su despertar, solo recuerda haber hablado con alguien que insistía en llevarlo a algún lugar con urgencia, alegando que necesitaba su ayuda. Aunque tenía la sensación de conocerlo de antes, aún no está seguro de quién era. Lo siguió fuera del campus universitario, donde fue atropellado por un coche. Lo último que recuerda son las luces de los faros y un dolor punzante en la cabeza.
+[[Chrysalis|Despertó]] relativamente poco después de su rescate, gracias a las llamas de [[Cloe Sheridan|Cloe]] y la radiancia de [[Ualatif Llharrorgorhadimbhor-Velmann|Rhys]]. En su despertar, solo recuerda haber hablado con [[Suraj|alguien]] que insistía en llevarlo a algún lugar con urgencia, alegando que necesitaba su ayuda. Aunque tenía la sensación de conocerlo de antes, aún no está seguro de quién era. Lo siguió fuera del campus universitario, donde fue atropellado por un coche. Lo último que recuerda son las luces de los faros y un dolor punzante en la cabeza.
 ## Future
 ---
-A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Triptico]]. Eventualmente, su alma adoptará la forma de [[Ravin Dra' Bhaskara]]
+A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Eventualmente, su alma adoptará la forma de [[Ravin Dra' Bhaskara]]
 # Relationship
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
