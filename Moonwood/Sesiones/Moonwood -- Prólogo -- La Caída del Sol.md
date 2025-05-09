@@ -2,6 +2,13 @@
 tags:
   - Sesión
 ---
+# Datos de Sesión
+---
+- Localización Actual: [[London|Londres]], [[The Honourable Society of the Middle Temple|Universidad]].
+- Personajes Principales: [[Ambrose Jenkins|Ambrose]], [[Cloe Sheridan|Cloe]] ,[[Marcus Mooney|Marcus]], [[Elliot Sterling|Elliot]].
+- Npc's: [[Alaina Jenkins]], [[Osana Najimi]].
+# Diario de Sesión
+---
 Comenzamos esta partida desde las tierras, cruzando fronteras. Apenas sabemos que hay fuera, al otro lado, pero sabemos que debemos continuar. Después de todo, no queda nada a nuestras espaldas. ¿Por qué? Nadie lo recuerda. La sensación de cruzar y descubrir algo nuevo, la curiosidad de lo inexplorado… es intoxicante. 
 
 Ascendemos, apartando de nuestra mirada figuras y masas que no tiene relevancia hasta sobrevolar las montañas nevadas. Cuantas son las experiencias y sueños que recorren estos picos. Son demasiadas para poder observarlas al mismo tiempo. Centramos la vista en este colorido encuentro, descubramos un encuentro de brujas…
