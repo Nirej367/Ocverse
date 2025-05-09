@@ -14,6 +14,8 @@ tags:
   - Goliath
   - Cursed
   - Garou
+Clase 2: Ranger
+Subclase 2: Fey Wanderer
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
@@ -37,11 +39,11 @@ Heath Fisher es un joven inglés huérfano de 27 años con una discapacidad del 
 
   
 
-No tiene relaciones de amistad ni de pareja conocidas actualmente. No se relaciona mucho ni tampoco le gusta juntarse con nadie. Actualmente, trabaja las tardes de los fines de semana en una tienda de animales y plantas exóticas. El dueño de la tienda, un señor inglés mayor a punto de jubilarse llamado Abraham Taylor, se encuentra sorprendido por lo mucho que han mejorado los animales y las plantas bajo el atento cuidado de Heath, afirmando que tiene un «toque mágico para tratar con cualquier tipo de ser que no sea humano». Contrató a Heath siguiendo un plan de contratación de personas con discapacidad, para obtener una pequeña ayuda económica del gobierno que le permitiese mantener abierta la tienda, su único sustento ahora mismo. 
+No tiene relaciones de amistad ni de pareja conocidas actualmente. No se relaciona mucho ni tampoco le gusta juntarse con nadie. Actualmente, trabaja las tardes de los fines de semana en una tienda de animales y plantas exóticas. El dueño de la tienda, un señor inglés mayor a punto de jubilarse llamado [[Abraham Taylor]], se encuentra sorprendido por lo mucho que han mejorado los animales y las plantas bajo el atento cuidado de Heath, afirmando que tiene un «toque mágico para tratar con cualquier tipo de ser que no sea humano». Contrató a Heath siguiendo un plan de contratación de personas con discapacidad, para obtener una pequeña ayuda económica del gobierno que le permitiese mantener abierta la tienda, su único sustento ahora mismo. 
 
   
 
-En la tienda también trabaja la sobrina de Abraham, Bertha Taylor, una apasionada de los animales que está haciendo ahora mismo la carrera de Veterinaria. Bertha se muestra muy interesada en comunicarse con el silencioso Heath y hacer buenas migas con él, pero este solo muestra su simpatía haciendo tareas por ella o asintiendo cuando ella le habla. 
+En la tienda también trabaja la sobrina de Abraham, [[Bertha Taylor]], una apasionada de los animales que está haciendo ahora mismo la carrera de Veterinaria. Bertha se muestra muy interesada en comunicarse con el silencioso Heath y hacer buenas migas con él, pero este solo muestra su simpatía haciendo tareas por ella o asintiendo cuando ella le habla. 
 
   
 

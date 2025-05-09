@@ -13,6 +13,8 @@ tags:
   - Cursed
   - Garou
   - Goliath
+Clase 2: Warlock
+Subclase 2: Undead Patron
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
@@ -74,7 +76,7 @@ En realidad, esto fue una estrategia de Henryk para intentar que Spencer y su me
 
   
 
-Henryk quedó en el bar con Spencer, e invitó a Tobias a unirse a ellos más tarde. Al principio, Henryk llevó a Spencer a la barra y Tobias, perdido en la discoteca, los buscó durante un buen rato. Incapaz de encontrarlos, y agobiado por la cantidad de personas que había en la discoteca, Tobias salió a la puerta del bar a fumar (es fumador social cuando se pone algo nervioso).
+[[Henryk Brown|Henryk]] quedó en el bar con Spencer, e invitó a Tobias a unirse a ellos más tarde. Al principio, Henryk llevó a Spencer a la barra y Tobias, perdido en la discoteca, los buscó durante un buen rato. Incapaz de encontrarlos, y agobiado por la cantidad de personas que había en la discoteca, Tobias salió a la puerta del bar a fumar (es fumador social cuando se pone algo nervioso).
 
   
 

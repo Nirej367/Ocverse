@@ -7,11 +7,15 @@ aliases:
   - Ualatif Llharrorgorhadimbhor-Velmann
   - Hijo de los syckham
   - La Consorte de Hielo
+  - Deadrose Desconocido
 Clase: Cleric
-Subclass: Light Domain
+Subclass: Nature Domain
 tags:
   - Fire
   - Fey
+  - Elemental
+  - Fire_Elemental
+Subclase 2: Light Domain
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
@@ -218,7 +222,7 @@ El golpe fatal. 
 
 Cuando quiso darse cuenta y gritar, no podía hacerlo. Notaba líquido en su garganta, líquido cayendo por su frente. Uno de sus ojos veía en rojo. No podía hablar, no podía moverse. Espinas atravesando su cuello, sus manos, sus piernas, su estómago... el dolor insoportable. Intentó gritar, pero no salía sonido de su cuerpo. Tenía los ojos abiertos como platos. 
 
-Escuchó voces. La voz de Itara
+Escuchó voces. La voz de Itara.
 
 "¡Maestro, mi maestro!" 
 
@@ -227,6 +231,10 @@ Escuchó pasos. Pudo ver que Itara descendía a la gruta por el pasadizo. Creyó
 "Perdónalo, Gran Padre, porque no sabe lo que hace" fue lo último que musitó, o quizá solo pensó, antes de la nada. 
 
 "¡Mi maestro se ha quitado la vida!", fue lo último que escuchó. 
+
+--> MÁS INFORMACIÓN:
+
+Los superiores de Ualalil como Médico Tercero de Muutherham son [[Esceralil Lavhadulla]] como Médico Primero y [[Avoatalil Ruddamarr]]. 
 
   
 
@@ -276,7 +284,9 @@ Debido a su interés por las religiones, Glenda le aconsejó a Ualalil que se in
 
 Durante todo este tiempo, el supuesto Rhys Doe no pareció envejecer ni lo más mínimo. Le han preguntado mucho por su “deformación en las orejas”. En el seminario le pusieron el mote de “Legolas”, por el famoso elfo de las novelas de Tolkien. Ualalil pensó que era un nombre horrible para uno de los suyos.**
 
-En su estancia en el mundo humano, conoce a [[Cloe Sheridan]], [[Ambrose Jenkins]], [[Marcus Mooney]], [[Elliot Sterling]]
+En su estancia en el mundo humano, conoce a [[Cloe Sheridan]], [[Ambrose Jenkins]], [[Marcus Mooney]], [[Elliot Sterling]] .
+
+Glenda y Maurice tienen un perro llamado [[Mr. Clean Perro|Mr. Clean]]. 
 
 ## Early Life
 
@@ -284,6 +294,15 @@ En su estancia en el mundo humano, conoce a [[Cloe Sheridan]], [[Ambrose Jenkins
 
 ## Current (Tercera Vida)
 
+Apareció por primera vez en un incendio provocado por magia natural de fuego que escapó del jardín y cayó en el [[Bosque Pulcro]]. Desde allí, buscó desorientado la primera civilización al este. Cayó desmayado en su viaje por falta de comida. Su energía atrajo instintivamente a un grupo de sacerdotes de Ignerior, que lo recogieron y lo llevaron a su templo, en la ladera de la [[Meseta Caparazón de Tortuga]]. 
+
+Protegido por [[Noche, La Primera Leyenda|Noche]] y [[Harariru, Dios del Engaño y el Juego|Harariru]]. 
+
+Nombrado Padre Ualatif, sacerdote de [[Ignerior]], por [[Pergalor CraHorn]] , otro sacerdote del clero de Ignerior.
+
+Pergalor le sugirió a Ualalil hacer un trío junto a él y su marido, [[Duevhan Vhan Vhellineshmashkishe]] . 
+
+También llamó la atención, a nivel emocional y sexual, de una sacerdotisa de Ignerior, [[Celpina PavesaFiel]], que insistió en acompañarle en su viaje, al verlo tan desconcertado en la [[Comarca de la Esfinge]]. Lo acompañó por su ronda de reconocimiento por dicha zona y por su paso por la [[Comarca del Grifo]]. Ualalil le pidió que volviese a casa cuando llegaron a la [[Comarca del Unicornio]]. Celpina intentó sugerirse de forma más clara en su última noche juntos, pero Ualalil la rechazó y le dio un abrazo de despedida, diciéndole que volvería a ver al resto del clero cuando pudiera. Para el viaje, se llevó a un caballo percherón blanco bastante inocentón, al que llamó [[Mr. Clean Caballo|Mr. Clean]] en recuerdo del perro de Glenda y Maurice. 
 ### Event 1
 ### Event 2
 ## Future (Retiro)
