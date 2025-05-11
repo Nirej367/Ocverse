@@ -294,7 +294,7 @@ Glenda y Maurice tienen un perro llamado [[Mr. Clean Perro|Mr. Clean]].
 
 ## Current (Tercera Vida)
 
-Apareció por primera vez en un incendio provocado por magia natural de fuego que escapó del jardín y cayó en el [[Bosque Pulcro]]. Desde allí, buscó desorientado la primera civilización al este. Cayó desmayado en su viaje por falta de comida. Su energía atrajo instintivamente a un grupo de sacerdotes de Ignerior, que lo recogieron y lo llevaron a su templo, en la ladera de la [[Meseta Caparazón de Tortuga]]. 
+Apareció por primera vez en un incendio provocado por magia natural de fuego que escapó del [[Jardín]] y cayó en el [[Bosque Pulcro]]. Desde allí, buscó desorientado la primera civilización al este. Cayó desmayado en su viaje por falta de comida. Su energía atrajo instintivamente a un grupo de sacerdotes de Ignerior, que lo recogieron y lo llevaron a su templo, en la ladera de la [[Meseta Caparazón de Tortuga]]. 
 
 Protegido por [[Noche, La Primera Leyenda|Noche]] y [[Harariru, Dios del Engaño y el Juego|Harariru]]. 
 

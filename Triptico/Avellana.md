@@ -1,4 +1,4 @@
-#Familiar 
+#Familiar #Fey 
 
 Familiar de [[Myrdriella Camomillius]]
 
