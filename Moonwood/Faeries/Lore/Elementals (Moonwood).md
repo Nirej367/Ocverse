@@ -2,6 +2,7 @@
 tags:
   - Lore
   - Species
+  - Fey
 ---
 Elementals are one of the [[Lost]] They are the children of the earth, air and sky of Faerie; those born of the raw elements of nature itself.
 # Overview

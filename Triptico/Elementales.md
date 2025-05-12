@@ -1,4 +1,9 @@
-#Worldbuilding
+---
+Mundo: Tríptico
+tags:
+  - Species
+---
+
 
 Considerados los descendientes directos de los espíritus naturales ([[ogham]], [[syctam]], [[gaumham]], [[vukiam]]), los elementales eran especies de naturaleza habitualmente pacífica de origen feérico. Los elementales, de parte de sus antepasados, ofrecieron a los elfos su ayuda en tiempos difíciles para levantar sus reinos. Cada tribu de elementales se encargó de proteger y cuidar un reino élfico: los elementales de tierra hicieron florecer la flora y la fauna muertas del antiguo "Montekthum", actualmente [[Rosselldrem]]. 
 
