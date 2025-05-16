@@ -11,10 +11,11 @@ tags:
   - Familiar
   - Sun
   - Deity
+Mundo: Kerthalyss
 ---
 ![[The Black Mask.png]]
 
-Suraj es actualmente un objeto legendario de gran [[Investiture|investidura]] que fue supuestamente creado por [[Nameless Sun|un feérico]] de la antigüedad. Se especula que otorgaba a su poseedor sus poderes. Sin embargo, pese a que verdaderamente transmita los poderes, no fue creado por él, aunque estuvo involucrado. Actualmente está en posesión de [[Ambrose Jenkins]]. En el futuro, será transportado al [[Tríptico]] donde [[Ravin Dra' Bhaskara]] heredará este objeto.
+Suraj es actualmente un objeto legendario de gran [[Investiture|investidura]] que fue supuestamente creado por [[Nameless Sun|un feérico]] de la antigüedad. Se especula que otorgaba a su poseedor sus poderes. Sin embargo, pese a que verdaderamente transmita los poderes, no fue creado por él, aunque estuvo involucrado. Actualmente está en posesión de [[Ambrose Jenkins]]. En el futuro, será transportado al [[Tríptico]] donde [[RavinDra Bhaskara]] heredará este objeto.
 # Appearance
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.

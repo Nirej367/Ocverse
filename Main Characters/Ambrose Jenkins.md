@@ -57,7 +57,7 @@ Hasta el momento, [[Ciara Jenkins]], [[Maximillian Jenkins]] y [[Alaina Jenkins]
 [[Chrysalis|Despertó]] relativamente poco después de su rescate, gracias a las llamas de [[Cloe Sheridan|Cloe]] y la radiancia de [[Ualatif Llharrorgorhadimbhor-Velmann|Rhys]]. En su despertar, solo recuerda haber hablado con [[Suraj|alguien]] que insistía en llevarlo a algún lugar con urgencia, alegando que necesitaba su ayuda. Aunque tenía la sensación de conocerlo de antes, aún no está seguro de quién era. Lo siguió fuera del campus universitario, donde fue atropellado por un coche. Lo último que recuerda son las luces de los faros y un dolor punzante en la cabeza.
 ## Future
 ---
-A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Eventualmente, su alma adoptará la forma de [[Ravin Dra' Bhaskara]]
+A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Eventualmente, su alma adoptará la forma de [[RavinDra Bhaskara]]
 # Relationship
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
