@@ -1,12 +1,12 @@
 ---
-aliases: 
-Clase: 
-Subclass: 
+aliases:
+  - Werebats
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
   - Species
 ---
-Camazotz were werebats, one of the extinct [[Fera|Changing Breeds]].
+Camazotz were [[Camazotz|Werebats]], one of the extinct [[Fera|Changing Breeds]].
 # Overview
 ---
 Few among the Fera remember the Camazotz, though the [[Mokolé]] keep their memory alive through [[Mnesis]] They recall that the Camazotz were [[Gaia]]'s other messengers, counterparts of the [[Corax]] who flew through the night and the southern lands which did not have ravens.
