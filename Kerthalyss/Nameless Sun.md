@@ -23,9 +23,9 @@ Lumière posee una belleza serena y casi onírica. De estatura esbelta y figura 
 
 Su cabello, largo y ondulado, cae en mechones sueltos sobre sus hombros y espalda, teñido de un dorado tenue que parece brillar por sí mismo. A menudo lleva algunos mechones recogidos con cintas hechas a mano o decorados con pequeñas cuentas de madera, plumas o fragmentos de tela sagrada, recuerdo de oraciones pasadas.
 
-Sus ojos, de forma almendrada, parecen contener un crepúsculo perpetuo: ni completamente claros ni oscuros, como si albergasen el último resplandor del sol antes de desaparecer. Hay en su mirada una mezcla de calma y melancolía, como si viera más allá del presente, o cargara con secretos antiguos que aún no comprende del todo.
+Sus ojos almendrados parecen contener un crepúsculo perpetuo: ni completamente claros ni oscuros, como si albergasen el último resplandor del sol antes de desaparecer. Hay en su mirada una mezcla de calma y melancolía, como si viera más allá del presente, o cargara con secretos antiguos que aún no comprende del todo.
 
-Viste con prendas sencillas, pero cuidadosamente confeccionadas, cada una cosida por sus propias manos. Lleva una túnica de lino claro, bordada con patrones florales en los bordes, especialmente alrededor del cuello y los puños. Su ropa suele estar cruzada por un cinturón de hilo oscuro, del que cuelgan herramientas de su oficio.
+Viste con prendas sencillas pero cuidadosamente confeccionadas, cada una cosida por sus propias manos. Lleva una túnica de lino claro, bordada con patrones florales en los bordes, especialmente alrededor del cuello y los puños. Su ropa suele estar cruzada por un cinturón de hilo oscuro, del que cuelgan herramientas de su oficio.
 
 Sobre sus piernas, Lumière lleva pantalones de tela gruesa teñidos en gris ceniza, cubiertos parcialmente por un delantal largo de trabajo con bordados de sus padres y maestros entre los pliegues, un recordatorio constante de su familia. Sus pies calzan sandalias de cuero gastado.
 # Personality

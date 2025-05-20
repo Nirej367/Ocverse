@@ -10,7 +10,7 @@ aliases:
 ![[Boggart 1.png]]
 # Overview
 ---
-Abuse of a [[brownie]], either through neglect of chores, failure to leave out food, or deliberate insult, will turn it into a Boggart. 
+Abuse of a [[Brownie]], either through neglect of chores, failure to leave out food, or deliberate insult, will turn it into a Boggart. 
 
 Also known as bogans or bogies, boggarts delight in tormenting those they once protected and will cause milk to sour, doors to slam, dogs to go lame and other mischief. 
 

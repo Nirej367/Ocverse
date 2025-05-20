@@ -12,12 +12,12 @@ tags:
 ---
 These beings are primarily encountered by [[Garou]] and certain types of mages, although numerous other supernatural beings are capable of discerning or even interacting with the [[Cognitive Realm|spirit world]]. Mages use the term Umbrood as an umbrella term for spirits.
 
-The term "Spirit" has broad application. Entities such as [[Celestines]], [[Demons]], [[Angels]] and other beings from beyond the [[Physical Realm]] would be considered Spirits. Those Cognitive aspects are based on how the objects are viewed by the surrounding entities and how long they've been the way they currently are. These Spirits can be spoken to in the [[Cognitive Realm]] and bribed with [[Gnosis]].
+The term "Spirit" has broad application. Entities such as [[Celestines]], [[Demons]], [[Angels]] and other beings from beyond the [[Physical Realm]] would be considered Spirits. Those Cognitive aspects are based on how the objects are viewed by the surrounding entities and how long they've been the way they currently are. These Spirits can be spoken to in the [[Cognitive Realm]] and bribed with [[Investiture|Gnosis]].
 
 In the strictest sense, however, Spirits are splinters of one or more [[Celestines]], with a single spirit being composed of one or more types of [[Investiture|Gnosis]]. Most spren are splinters of  [[Helios]], [[Gaia]] and [[Selene|Luna]], or a mixture of both that leans towards either one [[Celestines]] or the other. There are said to be thousands of different kinds of spirits, each named for a different type of phenomenon. They vary vastly in size, with the smallest being the size of a thumbnail, while the largest can dwarf buildings.
 ## Lesser Spirits
 ---
-The vast majority of all spirits are non-sapient; these are called the lesser spirits. Although some can speak, talking with them is generally an exercise in futility. Spren of the same sub-type are essentially the same individual, with no differences between any two entities. As creatures of nature, spirits are not particularly concerned with good and evil. Lesser spirits vary in how much they appear in the [[Physical Realm]]. A large group of spirits gathering can make the air in the [[Physical Realm]] glow. Reason why [[Caern]]s are places filled with [[Gnosis|mystical glow]] and a lot of power from the Cognitive Realm.
+The vast majority of all spirits are non-sapient; these are called the lesser spirits. Although some can speak, talking with them is generally an exercise in futility. Spren of the same sub-type are essentially the same individual, with no differences between any two entities. As creatures of nature, spirits are not particularly concerned with good and evil. Lesser spirits vary in how much they appear in the [[Physical Realm]]. A large group of spirits gathering can make the air in the [[Physical Realm]] glow. Reason why [[Caern]]s are places filled with [[Investiture|mystical glow]] and a lot of power from the Cognitive Realm.
 ## Patron Spirits
 ---
 In contrast, spirits that do possess sapience are referred to as patron spirits, founders of most of the [[Fera]]. They seem to all represent higher concepts. Most of them are treated as Deities even if they're not categorize as such. While Patron Spirits can transition into the [[Physical Realm]], they do so rarely, and only when seeking to bond.
@@ -34,7 +34,7 @@ Patron Spirits are spirits, who offer to grant boons to followers in the [[Physi
 - [[Owl]]
 - [[Rat]]
 - [[Raven]]
-- [[Spider]]
+- [[Ananasa|Spider]]
 - [[Stag]]
 - [[Thunder]]
 - [[Unicorn]]

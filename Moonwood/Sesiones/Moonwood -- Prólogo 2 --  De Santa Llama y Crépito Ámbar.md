@@ -48,4 +48,4 @@ Para cuando la habitación se distorsiona, también lo hace el aspecto de la cri
 
 Tras el combate, diseccionan el cuerpo del Doppel para sacar un corazón calcificado con [[Amber|Ámbar]] y una nueva pista de resonancia. El resto del cuerpo no resuena.
 
-La sesión termina con todo el grupo dirigiéndose a un lugar seguro, el [[Cloe's apartment|piso de Cloe]].
+La sesión termina con todo el grupo dirigiéndose a un lugar seguro, el [[Cloe's Apartment|piso de Cloe]].

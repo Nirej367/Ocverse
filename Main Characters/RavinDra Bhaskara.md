@@ -13,7 +13,6 @@ tags:
   - Aasimar
   - Sun
   - Cursed
-
 ---
 ![[Ravin dra.jpg]]
 
