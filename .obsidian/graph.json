@@ -18,7 +18,7 @@
       "query": "section: trítico",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 65390
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6848459142229262,
-  "close": false
+  "scale": 0.7392086256389095,
+  "close": true
 }

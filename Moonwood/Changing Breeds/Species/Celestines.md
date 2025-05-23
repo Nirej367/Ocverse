@@ -19,7 +19,7 @@ Apart from this pair, however, there are other different Celestines; some are av
 - [[Gaia]]
 - [[Wyld]]
 - [[Wyrm]]
-- [[Ananasa]]
+- [[Weaver]]
 - [[Helios]]
 - [[Selene]]
 - [[The Dreaming]]

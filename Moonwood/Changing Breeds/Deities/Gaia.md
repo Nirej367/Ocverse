@@ -1,6 +1,10 @@
 ---
+aliases:
+  - Madre Tierra
+  - Pachamama
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
   - Deity
 ---
 **Gaia** is the Earth in both a [[Physical Realm|physical]] and a [[Spiritual Realm|spiritual sense]]; the Mother Goddess of all living things.

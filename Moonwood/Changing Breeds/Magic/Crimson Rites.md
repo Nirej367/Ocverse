@@ -1,6 +1,10 @@
 ---
+aliases:
+  - Ritos de Sangre
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
+Related to: "[[Investiture]]"
 tags:
-  - Lore
   - Magic
 ---
 The crimson rites is a peculiar [[Investiture|Magic]] only used by the [[Camazotz]] until the [[War of Rage]]. It is unknown how to use it at the moment.

@@ -1,12 +1,13 @@
 ---
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
   - Deity
 ---
 The Wyrm is one of the three incalculably [[Celestines|powerful]] [[Spirits|spirits]] comprising the [[Triat]].
 # Overview
 ---
-In the theology of the [[Garou]], the Wyrm is one of the higher [[Celestines]]. The Wyrm's purpose was to cleanse and rectify all of Creation, furthering its descent into Entropy. It achieved this by eliminating that which the [[Wyld]] creates and the [[Ananasa|Weaver]] structures, completing the eternal cycle of birth to death.
+In the theology of the [[Garou]], the Wyrm is one of the higher [[Celestines]]. The Wyrm's purpose was to cleanse and rectify all of Creation, furthering its descent into Entropy. It achieved this by eliminating that which the [[Wyld]] creates and the [[Weaver|Weaver]] structures, completing the eternal cycle of birth to death.
 
 The form that the Wyrm takes in its aspect as harbinger of the Apocalypse is often called the 'Wyrm ascendant', or more generically the 'Apocalypse Wyrm', rather than the Triatic Wyrm. Never imprisoned and maddened by the Weaver, the Wyrm was instead driven to uncontainable hunger by the rampant greed and defilement that [[Mundane|humanity]] enacted upon itself and [[Gaia]] of its own volition, rather than the other way around as presented in older editions. Human greed has upset the cosmological balance, and now the spirit world reflects the [[Physical Realm|physical world]]’s trends of destruction, extraction and ruin — so long as profit can be derived from it.
 

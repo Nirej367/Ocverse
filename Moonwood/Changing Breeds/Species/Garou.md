@@ -1,6 +1,10 @@
 ---
+aliases:
+  - Werewolf
+  - Hombres lobo
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
   - Species
 ---
 Garou is a term used by the werewolves [[Fera|breed]] to identify their race and culture. The term is used nearly interchangeably with Garou Nation. 5th edition frequently uses the term to distinguish the eleven [[Tribe|tribes]] who are still willing to work with one another from other werewolves such as the [[Cult of Fenris]] and [[Black Spiral Dancers]], who have forsaken the title of Garou by turning their back on the Nation prior to its fall.

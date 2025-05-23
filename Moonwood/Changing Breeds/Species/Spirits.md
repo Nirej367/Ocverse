@@ -20,7 +20,7 @@ In the strictest sense, however, Spirits are splinters of one or more [[Celestin
 ---
 The vast majority of all spirits are non-sapient; these are called the lesser spirits. Although some can speak, talking with them is generally an exercise in futility.  As creatures of nature, spirits are not particularly concerned with good and evil. Lesser spirits vary in how much they appear in the [[Physical Realm]]. A large group of spirits gathering can make the air in the [[Physical Realm]] glow. Reason why [[Caern]]s are places filled with [[Investiture|mystical glow]] and a lot of power from the Cognitive Realm. 
 
-Nevertheless, there's a clear distention between them and typical ghosts (associated with [[Mundane|humans]] or [[Mage|mages]]). This section needs more clarification. PLEASE ELABORATE. 
+Nevertheless, there's a clear distention between them and typical [[Wraith|ghosts]] (associated with [[Mundane|humans]] or [[Mage|mages]]). This section needs more clarification. PLEASE ELABORATE. 
 ## Patron Spirits
 ---
 In contrast, spirits that hold a high concentration of [[Investiture]] are referred to as patron spirits, founders of most of the [[Fera]]. They seem to all represent higher concepts. Most of them are treated as Deities even if they're not categorize as such. While Patron Spirits can transition into the [[Physical Realm]], they do so rarely, and only when seeking to bond.
@@ -34,10 +34,11 @@ Patron Spirits are spirits, who offer to grant boons to followers in the [[Physi
 - [[Griffin]]
 - [[Horned Serpent]]
 - [[North Wind]]
+- [[Lion]]
 - [[Owl]]
 - [[Rat]]
-- [[Raven]]
-- [[Ananasa|Spider]]
+- [[The Morrigan]]
+- [[Weaver|Spider]]
 - [[Stag]]
 - [[Thunder]]
 - [[Unicorn]]

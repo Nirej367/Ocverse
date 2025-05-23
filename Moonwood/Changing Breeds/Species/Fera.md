@@ -1,9 +1,10 @@
 ---
-aliases: 
-Clase: 
-Subclass: 
+aliases:
+  - Cambia pieles
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
+  - Species
 ---
 **Fera**, also called _shifters_ or the _Changing Breeds_, are the races of shapeshifters of the World of Darkness. The term exclusively refers to those who undergo a proper [[First Change]] and excludes those who gain shapeshifting abilities via other means.
 

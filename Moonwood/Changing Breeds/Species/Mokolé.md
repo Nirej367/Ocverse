@@ -1,9 +1,9 @@
 ---
-aliases: 
-Clase: 
-Subclass: 
+aliases:
+  - Werereptile
+Lore: "[[Fera]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Lore
   - Species
 ---
 **Mokolé** are werelizards and werecrocodilians, descendants of the prehistoric [[Lizard Kings]] and one of the surviving [[Fera|changing breeds]].
