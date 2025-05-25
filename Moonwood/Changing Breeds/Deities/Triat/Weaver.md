@@ -9,7 +9,6 @@ Mundo: "[[Moonwood]]"
 tags:
   - Deity
 ---
-
 **[[Weaver|Ananasa]]** is a [[Celestines|celestine|]] as well as her [[Spirits#Patron Spirits|patron spirit]], supreme queen of the [[Ananasi]].
 # Overview
 ---

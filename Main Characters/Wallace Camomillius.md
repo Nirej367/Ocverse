@@ -7,6 +7,11 @@ tags:
   - Eladrin
   - Yeskuá
   - Cursed
+Mundo: "[[Tríptico]]"
+Ciudad: "[[Elva]]"
+Reino: "[[Rosselldrem]]"
+Edad: "115"
+Altura: 1'72
 ---
 ![[Wallace Camomillius.jpg]]
 

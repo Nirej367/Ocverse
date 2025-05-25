@@ -1,6 +1,8 @@
 ---
 aliases:
   - Diario de Alaina
+Lore: "[[Faerie]]"
+Mundo: "[[Moonwood]]"
 tags:
   - Item
   - Book
