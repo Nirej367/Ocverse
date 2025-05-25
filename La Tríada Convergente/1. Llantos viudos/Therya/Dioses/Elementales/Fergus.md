@@ -4,7 +4,10 @@ aliases:
   - Dios del fuego
   - Dios de la herreria
 Clase: Wizard
+Lore: "[[Therya]]"
 Subclass: Evoker
+Ciclo: "[[Llantos Viudos]]"
+Mundo: "[[La Triada Convergente]]"
 tags:
   - Deity
 ---
