@@ -6,7 +6,7 @@ Mundo: "[[Moonwood]]"
 tags:
   - Species
 ---
-**Fera**, also called _shifters_ or the _Changing Breeds_, are the races of shapeshifters of the World of Darkness. The term exclusively refers to those who undergo a proper [[First Change]] and excludes those who gain shapeshifting abilities via other means.
+**Fera**, also called _shifters_ or the _Changing Breeds_, are the [[Supernatural]] races of shapeshifters of the World of Darkness. The term exclusively refers to those who undergo a proper [[First Change]] and excludes those who gain shapeshifting abilities via other means.
 
 In addition to the names that each of the races have historically used for themselves (i.e. 'Garou', 'Ajaba', 'Corax', etc.), different shapeshifting races are distinguished (usually by outsiders) by more neutral terms simply describing the animal to which they share a form. These terms ("were(animal)" or sometimes "(animal)-shifter") also encompass shapeshifters of the appropriate animal who do not qualify as true Fera.
 

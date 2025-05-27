@@ -14,4 +14,4 @@ Gaia is greater than a [[Celestines]], and one of the most powerful [[Celestin
 
 Beyond the [[Triat]], she more clearly has ties to [[Helios]] and [[Selene|Luna]]. As is the case with other spirits of God-like power, Gaia is almost never encountered directly; instead she communicates with her children and other supplicants via minor spirits under her command.
 
-Gaia cannot be contacted directly, and resides within the [[Moonwood|Summer Country]], blissfully dreaming of life.
+Gaia cannot be contacted directly, and resides within [[Moonwood]], blissfully dreaming of life.

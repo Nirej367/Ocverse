@@ -9,7 +9,7 @@ tags:
 ---
 ![[Cloe_Sheridan.jpg]]
 
-Cloe Sheridan es una emigrante americana que viajo hasta Londres por trabajo y un cambio de aires. Actualmente trabaja como detective privado realizando encargos tanto para [[Mundane|mundanos]] como para [[Magical Creatures|criaturas mágicas]]. Sin embargo, su pasado revela una podera conexión de sangre con la hechicería en su familia. Actualmente, es portadora del [[Book of Shadows|Libro de las Sombras]].
+Cloe Sheridan es una emigrante americana que viajo hasta Londres por trabajo y un cambio de aires. Actualmente trabaja como detective privado realizando encargos tanto para [[Humans|mundanos]] como para [[Magical Creatures|criaturas mágicas]]. Sin embargo, su pasado revela una podera conexión de sangre con la hechicería en su familia. Actualmente, es portadora del [[Book of Shadows|Libro de las Sombras]].
 
 # Appearance
 ---

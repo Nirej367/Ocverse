@@ -3,10 +3,9 @@ aliases:
   - Fionna
   - La señora gorda
   - La vecina pesada de enfrente
-Ciudad: Londres
-Mundo: Moonwood
-tags:
-  - Mundane
+Especie: "[[Humans]]"
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
 ---
 ![[Fionna Johanson.png]]
 

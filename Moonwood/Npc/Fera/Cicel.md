@@ -3,10 +3,9 @@ aliases:
   - El estirado
   - El snob
   - El que atiende
-Ciudad: Londres
-Mundo: Moonwood
-tags:
-  - Garou
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
+Especie: "[[Garou]]"
 ---
 ![[Cecil.jpeg]]
 

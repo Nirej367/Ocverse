@@ -31,7 +31,7 @@ Durante años busco hacerse más poderosa sin éxito. Destacó en la [[Alchemy|a
 
 En cuanto lo tuvo en su poder supo porque nada más verlo le daba escalofríos. Con conjuros y prácticas inhumanas, ese libro parecía tener en sus hojas la maldad pura. Pero eso no le importo a ella y empezó a estudiarlo, analizándolo durante días y noches.
 
-En la primavera de 1877, Belladona bajó al sótano de la mansión Blackthorn, donde había trazado con tiza roja un círculo de invocación de dos metros de diámetro, salpicado de símbolos arcanos y petalos de rosa negra. Con su mezcla de pociones concentradas, la sangre de un recién nacido que robo de una familia de los suburbios y cenizas, lo invoco. Un [[Demons|demonio]] apareció ante ella, no muy poderoso, pero si bastante más que ella.
+En la primavera de 1877, Belladona bajó al sótano de la mansión Blackthorn, donde había trazado con tiza roja un círculo de invocación de dos metros de diámetro, salpicado de símbolos arcanos y petalos de rosa negra. Con su mezcla de pociones concentradas, la sangre de un recién nacido que robo de una familia de los suburbios y cenizas, lo invoco. Un [[Demon|demonio]] apareció ante ella, no muy poderoso, pero si bastante más que ella.
 
 Enfurecido al verse convocado, intentó romper el vínculo del círculo. Belladona, sin inmutarse, ofreció su trato: a cambio de dotarla de la chispa mágica que le había sido negada al nacer, él reclamaría las almas de sus parientes más próximos. El demonio, atraído por la crueldad de la propuesta, aceptó. Sin embargo, me dio la condición de que debía ser ella quien los asesinará. 
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 - List
 # Notable items
 ---
-Creadora y única integrante de la familia capaz de atrapar [[Demons|demonios]] en el interior de las paginas del [[Book of Shadows|Libro de las Sombras]].
+Creadora y única integrante de la familia capaz de atrapar [[Demon|demonios]] en el interior de las paginas del [[Book of Shadows|Libro de las Sombras]].
 
 - List
 - List

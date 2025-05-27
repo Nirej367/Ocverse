@@ -11,7 +11,7 @@ La casa de los Blackthorn está formada por una larga linea de sangre de magos y
 
 # Historia
 
-Los [[Blackthorn]] había sido durante siglos una poderosa y reputada familia de magos. Tenían poder, dinero, una tradición de talentosos y excelentes magos por generaciones, pero sobretodo unos fuerte valores. Sin embargo, todo cambió en 1860 con el nacimiento de la primera y única hija de [[Elijah Blackthorn]], [[Belladonna Blackthorn]]. Mientras familia crecía, siguió acumulando riqueza y poder invocando [[Demons|demonios]] para encerrarlos nada más cumplían su trato o algunos ni siquiera eso. Relleno el [[Book of Shadows|libro]] hasta que encerró a un [[Baphomet|demonio]] demasiado poderoso, tanto que antes de quedar encerrado, [[Curse of the Black Thorns|maldijo]] a toda su sangre. El primer hijo siempre acabará muerto.
+Los [[Blackthorn]] había sido durante siglos una poderosa y reputada familia de magos. Tenían poder, dinero, una tradición de talentosos y excelentes magos por generaciones, pero sobretodo unos fuerte valores. Sin embargo, todo cambió en 1860 con el nacimiento de la primera y única hija de [[Elijah Blackthorn]], [[Belladonna Blackthorn]]. Mientras familia crecía, siguió acumulando riqueza y poder invocando [[Demon|demonios]] para encerrarlos nada más cumplían su trato o algunos ni siquiera eso. Relleno el [[Book of Shadows|libro]] hasta que encerró a un [[Baphomet|demonio]] demasiado poderoso, tanto que antes de quedar encerrado, [[Curse of the Black Thorns|maldijo]] a toda su sangre. El primer hijo siempre acabará muerto.
 # Family Tree
 
 - [[Belladonna Blackthorn]] (1860-1920. La foto pertenece a 1889)   (nacionalidad inglesa).

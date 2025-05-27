@@ -20,6 +20,6 @@ Many [[Garou]] believe that the Weaver is primarily to blame for the imbalance
 
 The Weaver's avatars and children often take the form of spiders, or sometimes insects. It (or, more often, she) is a patron of law, order, science, and technology, and as such is revered by some semi-heretical [[Glass Walkers]] [[Ratkin]], and [[Ananasi]]. Most realize, however, that the Weaver is far too powerful in the modern world, where cities and steel are more important and influential than nature.
 
-Mankind is Weaver's adopted child, in order to bring order to the world and help her to end the chaos that her Celestine brethren constantly wrought upon creation. To this end, Weaver implanted [[Mundane|mortals]] with three gifts, Dogma, Science, and Technology, in order to survive.
+Mankind is Weaver's adopted child, in order to bring order to the world and help her to end the chaos that her Celestine brethren constantly wrought upon creation. To this end, Weaver implanted [[Humans|mortals]] with three gifts, Dogma, Science, and Technology, in order to survive.
 
 The Weaver has three incarnation: the manifestation of her gift of Technology, the manifestation of Dogma, and the manifestation of Science.

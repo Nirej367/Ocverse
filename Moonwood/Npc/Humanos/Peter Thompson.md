@@ -3,16 +3,15 @@ aliases:
   - Peter
   - Hijo de pulgar
   - Thompson
-Ciudad: Londres
-Mundo: Moonwood
-tags:
-  - Mundane
+Especie: "[[Humans]]"
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
 ---
 ![[Peter Thompson.jpg]]
 
 # Overview
 ---
-Es un [[Mundane|mundano]] de 28 años que ingresó en el seminario por su vocación cristiana, pero es de éstas personas que consideran que la religión es un trabajo y una vocación y la vida privada es otra cosa, es por eso que mantiene su vida personal alejada de la [[Catedral de San Pablo|iglesia]]. 
+Es un [[Humans|mundano]] de 28 años que ingresó en el seminario por su vocación cristiana, pero es de éstas personas que consideran que la religión es un trabajo y una vocación y la vida privada es otra cosa, es por eso que mantiene su vida personal alejada de la [[Catedral de San Pablo|iglesia]]. 
 
 Desde que [[Ualatif Llharrorgorhadimbhor-Velmann|Rhys]] ingresó en el seminario se muestra interesado en él y ha intentado llevarse bien con él desde el principio, llamándolo "Legolas" de broma y pidiéndole que le cambie turnos para poder escaparse a su otro trabajo como dependiente de una tienda. 
 
