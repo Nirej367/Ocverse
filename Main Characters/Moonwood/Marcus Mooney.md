@@ -1,10 +1,17 @@
 ---
 aliases:
   - Marcus
-Clase: Barbarian
-Subclass: Path of the World Tree
+Altura: 1'72
+Edad: "23"
+Peso: 78 kg
+Fecha de nacimiento: 12 de Abril de 1998
+Clase: "[[Barbarian]]"
+Subclass: "[[Path of the World Tree]]"
+Specie: "[[Fera]]"
+Subspecie: "[[Camazotz]]"
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Camazotz
 ---
 ![[Marcus Mooney.jpg]]
 

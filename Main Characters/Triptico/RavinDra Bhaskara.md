@@ -1,16 +1,17 @@
 ---
 aliases:
+  - RavinDra
   - Ravindra
-  - Ravin
-Clase: Wizard
-Subclass: Evoker
-Ciudad: El Jardín de las Delicias
-Mundo: Tríptico
 Altura: 1'92
-Edad: 105 años
-Fecha de nacimiento: 25 de Albraksil
+Edad: "105"
+Peso: 60 kg
+Fecha de nacimiento: 12 de Abril de 1998
+Clase: "[[Wizard]]"
+Subclass: "[[Evoker]]"
+Specie: "[[Aasimar]]"
+Ciudad: "[[Ciudad Aasimar]]"
+Mundo: "[[Tríptico]]"
 tags:
-  - Aasimar
   - Sun
   - Cursed
 ---

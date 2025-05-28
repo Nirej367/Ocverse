@@ -8,14 +8,19 @@ aliases:
   - Hijo de los syckham
   - La Consorte de Hielo
   - Deadrose Desconocido
-Clase: Cleric
-Subclass: Nature Domain
+Altura: 
+Edad: 
+Peso: 
+Fecha de nacimiento:
+Clase: "[[Cleric]]"
+Subclass: "[[Nature Domain]]"
+Subclase 2: "[[Light Domain]]"
+Specie: "[[Elementals (Moonwood)]]"
+Ciudad: 
+Mundo: "[[Tríptico]]"
 tags:
-  - Fire
-  - Fey
-  - Elemental
-  - Fire_Elemental
-Subclase 2: Light Domain
+  - Sun
+  - Cursed
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 

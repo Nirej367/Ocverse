@@ -1,12 +1,19 @@
 ---
 aliases:
   - Ambrose
+Altura: 1'76
+Edad: "23"
+Peso: 60 kg
+Fecha de nacimiento: 25 de Junio de 1998
 Clase: "[[Fighter]]"
 Subclass: "[[Champion]]"
+Specie: "[[Faerie]]"
+Subspecie: "[[Elementals (Moonwood)]]"
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
 tags:
   - Sun
-  - Elemental
-  - Fey
+  - Cursed
 ---
 ![[Ambrose Jenkins.jpg]]
 

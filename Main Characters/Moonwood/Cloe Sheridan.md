@@ -1,11 +1,18 @@
 ---
 aliases:
   - Cloe
-Clase: Wizard
-Subclass: Evoker
+  - Amelia Blackthorn
+Altura: 
+Edad: 
+Peso: 
+Fecha de nacimiento: 
+Clase: "[[Wizard]]"
+Subclass: "[[Evoker]]"
+Specie: "[[Human]]"
+Subspecie: "[[Mage]]"
+Ciudad: "[[London]]"
+Mundo: "[[Moonwood]]"
 tags:
-  - Human
-  - Witchcraft
 ---
 ![[Cloe_Sheridan.jpg]]
 

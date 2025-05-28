@@ -1,17 +1,18 @@
 ---
 aliases:
   - Wallace
-Clase: Druid
-Subclass: Circle of the stars
-tags:
-  - Eladrin
-  - Yeskuá
-  - Cursed
-Mundo: "[[Tríptico]]"
-Ciudad: "[[Elva]]"
-Reino: "[[Rosselldrem]]"
-Edad: "115"
 Altura: 1'72
+Edad: "115"
+Peso: 72 kg
+Fecha de nacimiento: 12 de Abril de 1998
+Clase: "[[Druid]]"
+Subclass: "[[Circle of Stars]]"
+Specie: "[[Eladrin]]"
+Ciudad: "[[Elva]]"
+Mundo: "[[Tríptico]]"
+Related to: "[[Yeskuá]]"
+tags:
+  - Cursed
 ---
 ![[Wallace Camomillius.jpg]]
 
@@ -160,7 +161,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
 
-- List
+- 14 cm de polla
 - List
 
 
