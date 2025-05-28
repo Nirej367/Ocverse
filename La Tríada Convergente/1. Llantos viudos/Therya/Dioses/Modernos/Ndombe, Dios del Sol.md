@@ -1,16 +1,19 @@
 ---
 aliases:
-  - Fergus
-  - Dios del fuego
-  - Dios de la herreria
-Clase: Wizard
-Lore: "[[Therya]]"
-Subclass: Evoker
-Ciclo: "[[Llantos Viudos]]"
+  - Ndombe
+  - Deidad
+  - Dios del Sol
+  - Renacido
+  - Inmortal
+Clase: Fighter
+Subclass: Battle Master
 Mundo: "[[La Triada Convergente]]"
+Ciclo: "[[Llantos Viudos]]"
+Planeta: "[[Therya]]"
 tags:
-  - Deity
+  - Deidad
 ---
+![[ndombe.jpg]]
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
 # Appearance
