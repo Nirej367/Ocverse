@@ -14,7 +14,7 @@ Planeta: "[[Therya]]"
 tags:
   - Deidad
 ---
-![[fergus 2.jpg]]
+![[Fergus.jpg]]
 
 [[Fergus, dios del fuego|Deidad]] elemental del fuego, adorado por pocos y odiado por muchos, tiene el poder de activar volcanes, quemar metales y asemejar una forma parecida al Dios del sol en miniatura. 
 

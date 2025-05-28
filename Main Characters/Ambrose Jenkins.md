@@ -1,8 +1,8 @@
 ---
 aliases:
   - Ambrose
-Clase: Fighter
-Subclass: Champion
+Clase: "[[Fighter]]"
+Subclass: "[[Champion]]"
 tags:
   - Sun
   - Elemental
