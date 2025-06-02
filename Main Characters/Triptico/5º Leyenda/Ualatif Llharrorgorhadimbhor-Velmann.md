@@ -8,18 +8,19 @@ aliases:
   - Hijo de los syckham
   - La Consorte de Hielo
   - Deadrose Desconocido
-Altura: 
-Edad: 
-Peso: 
-Fecha de nacimiento:
+Altura: 1'95
+Edad: "150"
+Peso: 78 kg
+Fecha de nacimiento: 16 de Floraksil del 3852 de la Era de los Antiguos
 Clase: "[[Cleric]]"
 Subclass: "[[Nature Domain]]"
 Subclase 2: "[[Light Domain]]"
-Specie: "[[Elementals (Moonwood)]]"
-Ciudad: 
+Specie: "[[Elementales]]"
+Subspecie: "[[Elementals (Moonwood)]]"
+Ciudad: "[[Cuerno del Alce]]"
+Reino: "[[Muutherham]]"
 Mundo: "[[Tríptico]]"
 tags:
-  - Sun
   - Cursed
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**

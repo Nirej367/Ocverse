@@ -3,14 +3,15 @@ aliases:
   - RavinDra
   - Ravindra
 Altura: 1'92
-Edad: "105"
+Edad: "104"
 Peso: 60 kg
-Fecha de nacimiento: 12 de Abril de 1998
+Fecha de nacimiento: 25 de Albraksil de 1523 de la Era de los Jóvenes
 Clase: "[[Wizard]]"
 Subclass: "[[Evoker]]"
 Specie: "[[Aasimar]]"
-Ciudad: "[[Ciudad Aasimar]]"
+Ciudad: "[[Ciudadela Aasimar]]"
 Mundo: "[[Tríptico]]"
+Related to: "[[Ciudadela Aasimar]]"
 tags:
   - Sun
   - Cursed

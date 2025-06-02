@@ -2,10 +2,10 @@
 aliases:
   - Cloe
   - Amelia Blackthorn
-Altura: 
-Edad: 
-Peso: 
-Fecha de nacimiento: 
+Altura: 1'74
+Edad: "23"
+Peso: "56"
+Fecha de nacimiento: 3 de Mayo de 1997
 Clase: "[[Wizard]]"
 Subclass: "[[Evoker]]"
 Specie: "[[Human]]"

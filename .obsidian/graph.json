@@ -5,31 +5,31 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "line:Moonwood",
+      "query": "path:Moonwood  ",
       "color": {
         "a": 1,
-        "rgb": 8855872
+        "rgb": 602481
       }
     },
     {
-      "query": "line:Tríptico",
+      "query": "path:Triptico  ",
       "color": {
         "a": 1,
         "rgb": 65390
       }
     },
     {
-      "query": "line:Kerthalyss",
+      "query": "path:Kerthalyss  ",
       "color": {
         "a": 1,
         "rgb": 7885536
       }
     },
     {
-      "query": "line:La Triada Convergente",
+      "query": "path:\"La Tríada Convergente\"  ",
       "color": {
         "a": 1,
         "rgb": 28672
@@ -46,6 +46,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.68227502348024,
-  "close": true
+  "scale": 0.2650488611692021,
+  "close": false
 }

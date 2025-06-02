@@ -1,7 +1,17 @@
 ---
 aliases: 
-Clase: 
-Subclass: 
+Altura:
+Edad:
+Peso:
+Fecha de nacimiento:
+Clase:
+Subclass:
+Specie:
+Subspecie:
+Ciudad:
+Reino:
+Mundo:
+Related to:
 tags:
   - Example
 ---

@@ -4,7 +4,7 @@ aliases:
 Altura: 1'80
 Edad: "145"
 Peso: 73 kg
-Fecha de nacimiento: 
+Fecha de nacimiento: 1 de Lusuksil de 1483 de la Era de los Jóvenes
 Clase: "[[Ranger]]"
 Subclass: "[[Beast Master]]"
 Specie: "[[Earth Elemental]]"

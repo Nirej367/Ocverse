@@ -3,12 +3,19 @@ aliases:
   - Lumi
   - Lumière
   - Sun Weaver
-Clase: Cleric
-Subclass: Twilight Domain
+Altura: 
+Edad: 
+Peso: 
+Fecha de nacimiento: 
+Clase: "[[Cleric]]"
+Subclass: "[[Twilight Domain]]"
+Specie: "[[Faerie]]"
+Subspecie: "[[Elementals (Moonwood)]]"
+Ciudad: 
+Reino: 
+Mundo: "[[Kerthalyss]]"
+Related to: 
 tags:
-  - Sun
-  - Elemental
-  - Fey
   - Deceased
 ---
 ![[Lumière.jpg]]

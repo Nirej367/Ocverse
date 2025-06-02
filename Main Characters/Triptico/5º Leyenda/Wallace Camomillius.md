@@ -4,7 +4,7 @@ aliases:
 Altura: 1'72
 Edad: "115"
 Peso: 72 kg
-Fecha de nacimiento: 12 de Abril de 1998
+Fecha de nacimiento: 12 de Floraksil de 1513 de la Era de los Jóvenes
 Clase: "[[Druid]]"
 Subclass: "[[Circle of Stars]]"
 Specie: "[[Eladrin]]"
