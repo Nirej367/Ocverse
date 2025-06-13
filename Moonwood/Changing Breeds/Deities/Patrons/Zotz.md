@@ -24,4 +24,8 @@ Tras 5 siglos de larga recuperación, Zotz vuelve a tener capacidad para engendr
 ---
 Para el resto de los Fera, solo queda el recuerdo de un espiritu que ha traicionado a [[Gaia]], aliandose con sus enemigos. Las historias que se cuentan de Zotz lo describen como un bromista, gloton, asesino y traidor. Sin embargo, pese a su estrecha relacion con los [[Black Spiral Dancers|danzantes de la espiral negra]], otros todavía se atreven a seguir sus promesas de fortuna, poder e inmortalidad si son capaces de encontrarle y liberarle de su condena.
 
+# Items
+---
+- [[Totem de Zotz]]
+
 ![[Zotz (1).png]]

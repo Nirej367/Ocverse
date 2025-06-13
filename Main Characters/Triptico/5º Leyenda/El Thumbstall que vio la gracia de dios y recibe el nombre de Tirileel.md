@@ -2,8 +2,8 @@
 aliases:
   - Tirileel
   - Ica
-Altura: 
-Edad: 
+Altura: 15 cm
+Edad: "125"
 Peso: 
 Fecha de nacimiento: 
 Clase: "[[Cleric]]"

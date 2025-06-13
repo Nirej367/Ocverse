@@ -11,7 +11,7 @@ tags:
   - Familiar
   - Sun
   - Deity
-Mundo: Kerthalyss
+Mundo: "[[Kerthalyss]]"
 ---
 ![[The Black Mask.png]]
 

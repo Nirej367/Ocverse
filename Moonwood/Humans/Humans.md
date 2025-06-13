@@ -18,3 +18,22 @@ Aun con todo, los humanos no están completamente limitados. Existen personas qu
 En esos instantes, puede abrirse una **fisura momentánea** por la cual el individuo **percibe una deformación del plano cognitivo**: símbolos imposibles, repeticiones de patrones, presencia de entidades que no ocupan espacio físico, o fragmentos de magia estructural flotando como errores en el aire.
 
 Estas experiencias son **breves, borrosas, profundamente incómodas** y casi siempre seguidas por un intento de racionalización inmediata.
+# Known Humans
+---
+- [[Abraham Taylor]]
+- [[Ayla Sterling]]
+- [[Bertha Taylor]]
+- [[Cassidy Mooney]]
+- [[Ciara Jenkins]]
+- [[Fionna Johanson]]
+- [[Glenda Patterson]]
+- [[Henrik Brown]]
+- [[Ludwig Sterling]]
+- [[Madeline Miller]]
+- [[Margaret Mooney]]
+- [[Maurice Patterson]]
+- [[Maximillian Jenkins]]
+- [[Oliver Sterling]]
+- [[Osana Najimi]]
+- [[Peter Thompson]]
+- [[Tobias Smith]]
