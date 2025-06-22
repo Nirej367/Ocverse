@@ -12,8 +12,9 @@ Specie: "[[Thumbstall]]"
 Subspecie: 
 Ciudad: 
 Reino: 
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: 
-tags:
-  - Example
+tags: []
+
 ---

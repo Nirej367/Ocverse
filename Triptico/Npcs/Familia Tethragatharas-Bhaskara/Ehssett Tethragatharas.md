@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Esset
+  - Ehseet
 Altura: 
-Edad: 
+Edad: "115"
 Peso: 
 Fecha de nacimiento: 
 Clase: "[[Warlock]]"
@@ -11,7 +11,8 @@ Specie:
 Subspecie: 
 Ciudad: 
 Reino: 
-Mundo: 
+Leyenda: "[[5º Leyenda]]"
+Mundo: "[[Tríptico]]"
 Related to: "[[Heru|Heru]]"
-tags: []
+tags:
 ---

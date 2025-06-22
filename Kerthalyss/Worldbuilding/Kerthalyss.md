@@ -24,3 +24,7 @@ Las plagas están inspiradas en las [10 plagas de Egipto](https://www.worldhisto
     
 
 La propagación es un nombre provisional, tomaremos referencia para la formación de la plaga en relación a una de las [titánides](https://honkai-star-rail.fandom.com/wiki/Tayzzyronth) y [las criaturas que emerjan para arrasar el mundo.](https://honkai-star-rail.fandom.com/wiki/Propagation)**
+# Posibles lugares de interes
+---
+- [[Cuna de las Raíces]] (Cradle of Roots)
+- [[Lysenna]]

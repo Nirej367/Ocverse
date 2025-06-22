@@ -13,6 +13,7 @@ Specie: "[[Genasi]]"
 Subspecie: "[[Air Genasi]]"
 Ciudad: "[[El Vidrio]]"
 Reino: "[[Pradera Lustrosa]]"
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 tags:
 ---

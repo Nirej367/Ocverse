@@ -9,6 +9,7 @@ Clase: "[[Druid]]"
 Subclass: "[[Circle of Stars]]"
 Specie: "[[Eladrin]]"
 Ciudad: "[[Elva]]"
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: "[[Yeskuá]]"
 tags:

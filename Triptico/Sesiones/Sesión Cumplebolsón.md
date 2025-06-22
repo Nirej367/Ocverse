@@ -5,7 +5,7 @@ tags:
 # Datos de Sesión
 ---
 - Localicación actual: [[Bosque de las Tres Lunas]].
-- Personajes Principales: [[Utrara Thoetutsa|Kirón]].
+- Personaje Principal: [[Utrara Thoetutsa|Kirón]].
 - Npc's: [[Marchitte]], [[Mortensen]], [[Hermana Arathar Zuremm]], [[Bolsón]].
 # Diario de Sesión
 ## Día 1, Luna Creciente

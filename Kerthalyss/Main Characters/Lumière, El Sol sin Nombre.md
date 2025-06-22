@@ -3,10 +3,12 @@ aliases:
   - Lumi
   - Lumière
   - Sun Weaver
+  - Nameless Sun
+  - Lumiere
 Altura: 
 Edad: "25"
 Peso: 
-Fecha de nacimiento: 18 de Julio de
+Fecha de nacimiento: 16 de Julio de 4167
 Clase: "[[Cleric]]"
 Subclass: "[[Twilight Domain]]"
 Specie: "[[Faerie]]"

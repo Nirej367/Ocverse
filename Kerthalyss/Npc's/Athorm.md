@@ -12,8 +12,7 @@ Ciudad:
 Reino: 
 Mundo: "[[Kerthalyss]]"
 Related to: 
-tags:
-  - Example
+tags: []
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
