@@ -1,5 +1,6 @@
 ---
 aliases: 
+Personaje: "[[Npc]]"
 Altura: 
 Edad: "28"
 Peso: 
@@ -9,11 +10,13 @@ Subclass:
 Specie: "[[Minotaur]]"
 Subspecie: 
 Ciudad: 
-Reino: 
+Reino: "[[Isiwadja]]"
 Mundo: "[[Kerthalyss]]"
 Related to: 
-tags: []
+tags:
 ---
+![[Athorn.jpg]]
+
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
 # Appearance

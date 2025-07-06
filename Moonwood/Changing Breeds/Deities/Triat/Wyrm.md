@@ -2,7 +2,7 @@
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
 tags:
-  - Deity
+  - Deidad
 ---
 The Wyrm is one of the three incalculably [[Celestines|powerful]] [[Spirits|spirits]] comprising the [[Triat]].
 # Overview

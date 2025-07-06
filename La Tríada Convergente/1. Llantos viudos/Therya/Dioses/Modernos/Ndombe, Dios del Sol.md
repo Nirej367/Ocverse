@@ -11,7 +11,7 @@ Mundo: "[[La Triada Convergente]]"
 Ciclo: "[[Llantos Viudos]]"
 Planeta: "[[Therya]]"
 tags:
-  - Deity
+  - Deidad
 ---
 ![[ndombe.jpg]]
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**

@@ -5,7 +5,7 @@ aliases:
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
 tags:
-  - Deity
+  - Deidad
 ---
 **Gaia** is the Earth in both a [[Physical Realm|physical]] and a [[Spiritual Realm|spiritual sense]]; the Mother Goddess of all living things.
 # Overview

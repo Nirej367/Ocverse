@@ -1,22 +1,32 @@
 ---
+Parents:
+  - "[[Léon Makris]]"
+  - "[[Déborah Makris]]"
+Spouse:
+  - "[[Heru]]"
+Siblings:
+  - "[[Kynthia Makris]]"
+Bonded With: "[[Suraj]]"
 aliases:
   - Lumi
   - Lumière
   - Sun Weaver
   - Nameless Sun
   - Lumiere
-Altura: 
+  - Sol sin nombre
+Personaje: "[[Protagonista]]"
+Altura: 1'83
 Edad: "25"
-Peso: 
-Fecha de nacimiento: 16 de Julio de 4167
+Peso: 76 kg
+Fecha de nacimiento: 16 de Julio de 4142
 Clase: "[[Cleric]]"
 Subclass: "[[Twilight Domain]]"
 Specie: "[[Faerie]]"
 Subspecie: "[[Elementals (Moonwood)]]"
 Ciudad: 
-Reino: 
+Reino: "[[Euphrosinia]]"
 Mundo: "[[Kerthalyss]]"
-Related to: 
+Related to: "[[Utu, Titán del so|Utu]]"
 tags:
   - Deceased
 ---

@@ -15,19 +15,19 @@ Mundo: "[[Moonwood]]"
 >“Esta es la historia de Suraj el brillante, decimotercer hijo del gran dios Sol, nacido de los primeros rayos del rocío, que creció con gran esfuerzo”
 ## 2º Tapiz
 ---
-- Personajes principales: [[Suraj]] y [[Lumière, El Sol sin Nombre|Lumière]]
+- Personajes principales: [[Suraj]] y [[Lumière Makris|Lumière]]
 - Descripción general: Nos encontramos en el humilde hogar de un costurero sin rostro, tejiendo en su rueca. Mientras tanto, el pequeño espiritu solar se asoma por la ventana, contemplando obra la magia del [[Cleric|clérigo]].
 
 >“Hasta encontrar otro humilde siervo del Sol, cuyos telares iluminaron el camino de los devotos hasta el fin de los tiempos. El tejer de su rueca me alentó a cuidar a la pequeña criatura a cambio de su magia ”.
 ## 3º Tapiz
 ---
-- Personajes principales: [[Suraj]] y [[Lumière, El Sol sin Nombre|Lumière]]
+- Personajes principales: [[Suraj]] y [[Lumière Makris|Lumière]]
 - Descripción general: En esta escena podemos encontrar a Lumière rezando, cuyas plegarias alimentan a una criatura que se alza sobre la cabeza de la figura sin rostro, una gran cabeza de gato negro haciendose pasar por el gran dios sol. 
 
 >“Llegado el momento, el joven siervo del sol alzó sus plegarias y uno le devolvió la palabra, uniendonos en sagrado compromiso, como Deidad y devoto”.
 ## 4º Tapiz
 ---
-- Personajes principales: [[Suraj]], [[Lumière, El Sol sin Nombre|Lumière]] y [[Heru]]
+- Personajes principales: [[Suraj]], [[Lumière Makris|Lumière]] y [[Heru]]
 - Descripción general: Nos encontramos a 2 figuras. La primera describe el momento en el que Lumiere y Heru descubren la máscara y el primero se la pone. Mientras tanto, la segunda escena nos muestra a la bestia solar desbocada, siendo tranquilizada por la otra figura enmascarada.
 
 >“Muchas fueron nuestras aventuras, hasta encontrar objetos prohibidos. Nuestro pobre devoto llegó a ponerse el rostro del sol, cambiando nuestra forma. La bestia solar nació sin control, arrasando todo a su paso. Pero, solo otro enmascarado pudo amansar a la bestia desbocada ”.

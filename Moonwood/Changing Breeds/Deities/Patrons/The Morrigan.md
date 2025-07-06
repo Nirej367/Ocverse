@@ -11,7 +11,7 @@ aliases:
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
 tags:
-  - Deity
+  - Deidad
 ---
 Raven is a [[Spirits|Spirit]] that greatly supports the [[Corax]].
 # Badb

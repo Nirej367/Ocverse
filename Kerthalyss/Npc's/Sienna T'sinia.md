@@ -30,7 +30,7 @@ Sienna dedicó su vida a detener el [[The Erosion|cataclismo]] que amenazaba con
 
 Fue elegida como consejera de confianza en el Núcleo de [[Lysenna]], donde sus palabras suaves y su sabiduría innata la convirtieron en la guía espiritual del pueblo. Sus alas, sus gestos, su sola presencia —eran considerados un augurio de paz.
 
-Pero la paz era temporal. Cuando llegó el Cataclismo, Sienna **cumplió la profecía**. Junto a un pequeño grupo de valientes —entre ellos un feérico que portaba un alma fragmentada llamada [[Lumière, El Sol sin Nombre|Lumi]]— logró detener la devastación y sellar la corrupción bajo capas de tierra viva, raíces rituales y plegarias silenciosas.
+Pero la paz era temporal. Cuando llegó el Cataclismo, Sienna **cumplió la profecía**. Junto a un pequeño grupo de valientes —entre ellos un feérico que portaba un alma fragmentada llamada [[Lumière Makris|Lumi]]— logró detener la devastación y sellar la corrupción bajo capas de tierra viva, raíces rituales y plegarias silenciosas.
 
 **Ella sobrevivió.** No por bendición... sino por maldición.
 

@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Curse": "text"
+    "Curse": "text",
+    "Parents": "multitext",
+    "Spouse": "multitext",
+    "Siblings": "multitext"
   }
 }

@@ -28,3 +28,9 @@ La propagación es un nombre provisional, tomaremos referencia para la formació
 ---
 - [[Cuna de las Raíces]] (Cradle of Roots)
 - [[Lysenna]]
+- Egipcio (hogar de Heru) → [[Isiwadja]]
+- Persa → [[Rūbāhta]]
+- Indio → [[Ahiyamukha]]
+- Griego (hogar de Lumière) → [[Euphrosinia]]
+	- Ciudades: Agalliásia, Eftychía
+- Nombre de templos: La Cuna de las Raíces

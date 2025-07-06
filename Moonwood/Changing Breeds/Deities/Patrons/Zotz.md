@@ -8,7 +8,7 @@ aliases:
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
 tags:
-  - Deity
+  - Deidad
 ---
 ![[Zotz (2).jpg]]
 
