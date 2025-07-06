@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 28672
       }
+    },
+    {
+      "query": "path:\"Los Legados\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13483539
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2650488611692021,
+  "scale": 0.8173916578611339,
   "close": false
 }

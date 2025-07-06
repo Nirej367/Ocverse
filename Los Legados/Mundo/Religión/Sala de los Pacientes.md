@@ -1,0 +1,1 @@
+Llamado así al lugar donde [[Divana]] reúne las almas de los muertos de cara al [[Retorno]]. No hay una descripción definida sobre el lugar al borrarse los recuerdos del alma una vez abandona este lugar.
