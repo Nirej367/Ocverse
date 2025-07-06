@@ -1,20 +1,32 @@
 ---
+Parents:
+  - "[[Léon Makris]]"
+  - "[[Déborah Makris]]"
+Spouse:
+  - "[[Heru]]"
+Siblings:
+  - "[[Kynthia Makris]]"
+Bonded With: "[[Suraj]]"
 aliases:
   - Lumi
   - Lumière
   - Sun Weaver
-Altura: 
-Edad: 
-Peso: 
-Fecha de nacimiento: 
+  - Nameless Sun
+  - Lumiere
+  - Sol sin nombre
+Personaje: "[[Protagonista]]"
+Altura: 1'83
+Edad: "25"
+Peso: 76 kg
+Fecha de nacimiento: 16 de Julio de 4142
 Clase: "[[Cleric]]"
 Subclass: "[[Twilight Domain]]"
 Specie: "[[Faerie]]"
 Subspecie: "[[Elementals (Moonwood)]]"
 Ciudad: 
-Reino: 
+Reino: "[[Euphrosinia]]"
 Mundo: "[[Kerthalyss]]"
-Related to: 
+Related to: "[[Utu, Titán del so|Utu]]"
 tags:
   - Deceased
 ---
@@ -22,7 +34,7 @@ tags:
 
 Lumière es la imagen de un clérigo cuya divinidad se manifiesta con silencio, tacto, y una luz que apenas comienza a desvanecerse. Es un puente viviente entre lo mundano y lo sagrado, entre lo que se ve y lo que se oculta bajo la máscara.
 
-Siguiendo los pasos del Camino Radiante, juró sus votos ante una nueva luz perdida "[[Suraj|Suraj]]". A través del tejido, Lumière canaliza magia divina, sin saber que la fuente de su poder está lejos de ser celestial.
+Siguiendo los pasos del Camino Radiante, juró sus votos ante una nueva luz perdida "[[Suraj]]". A través del tejido, Lumière canaliza magia divina, sin saber que la fuente de su poder está lejos de ser celestial.
 
 # Appearance
 ---
@@ -58,6 +70,7 @@ A pesar de sus fragilidades, Lumière es firme en su deseo de hacer el bien. Su 
 ---
 ## Background
 ---
+
 
 
 # Relationship

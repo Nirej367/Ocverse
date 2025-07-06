@@ -2,8 +2,8 @@
 aliases:
   - Tirileel
   - Ica
-Altura: 
-Edad: 
+Altura: 15 cm
+Edad: "125"
 Peso: 
 Fecha de nacimiento: 
 Clase: "[[Cleric]]"
@@ -12,8 +12,9 @@ Specie: "[[Thumbstall]]"
 Subspecie: 
 Ciudad: 
 Reino: 
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: 
-tags:
-  - Example
+tags: []
+
 ---

@@ -3,6 +3,13 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
+<<<<<<< HEAD
     "Lore": "multitext"
+=======
+    "Curse": "text",
+    "Parents": "multitext",
+    "Spouse": "multitext",
+    "Siblings": "multitext"
+>>>>>>> 30472f3daf87b2fb1dc35dcdc277550182e65e9e
   }
 }

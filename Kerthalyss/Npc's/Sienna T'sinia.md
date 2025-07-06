@@ -3,12 +3,12 @@ aliases:
   - The Monarch Butterfly
   - Sienna
   - T'sinia
-Clase: Sorcerer
-Subclass: Divine Soul
+Clase: "[[Sorcerer]]"
+Subclass: "[[Divine Soul]]"
 tags:
   - Fey
   - Cursed
-Mundo: Kerthalyss
+Mundo: "[[Kerthalyss]]"
 ---
 ![[Sienna.png]]
 
@@ -28,9 +28,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 ---
 Sienna dedicó su vida a detener el [[The Erosion|cataclismo]] que amenazaba con devorar los cimientos de Kerthalyss. Guiada desde joven por los versos de una [[The Old Memory|diosa primigenia olvidada]], Sienna vivió marcada por una profecía que solo ella parecía completar.
 
-Fue elegida como consejera de confianza en el Núcleo de Lysenna, donde sus palabras suaves y su sabiduría innata la convirtieron en la guía espiritual del pueblo. Sus alas, sus gestos, su sola presencia —eran considerados un augurio de paz.
+Fue elegida como consejera de confianza en el Núcleo de [[Lysenna]], donde sus palabras suaves y su sabiduría innata la convirtieron en la guía espiritual del pueblo. Sus alas, sus gestos, su sola presencia —eran considerados un augurio de paz.
 
-Pero la paz era temporal. Cuando llegó el Cataclismo, Sienna **cumplió la profecía**. Junto a un pequeño grupo de valientes —entre ellos un feérico que portaba un alma fragmentada llamada [[Nameless Sun|Lumi]]— logró detener la devastación y sellar la corrupción bajo capas de tierra viva, raíces rituales y plegarias silenciosas.
+Pero la paz era temporal. Cuando llegó el Cataclismo, Sienna **cumplió la profecía**. Junto a un pequeño grupo de valientes —entre ellos un feérico que portaba un alma fragmentada llamada [[Lumière Makris|Lumi]]— logró detener la devastación y sellar la corrupción bajo capas de tierra viva, raíces rituales y plegarias silenciosas.
 
 **Ella sobrevivió.** No por bendición... sino por maldición.
 

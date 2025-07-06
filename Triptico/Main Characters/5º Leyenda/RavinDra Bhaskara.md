@@ -10,6 +10,7 @@ Clase: "[[Wizard]]"
 Subclass: "[[Evoker]]"
 Specie: "[[Aasimar]]"
 Ciudad: "[[Ciudadela Aasimar]]"
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: "[[Ciudadela Aasimar]]"
 tags:
@@ -121,7 +122,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 
 # Trivia
 ---
-RavinDra conserva muchisimas características que recuerdan a su primer ciclo [[Nameless Sun|Lumi]] como lo son la confianza en la magia, el dominio de la Urdimbre, el uso de las telas para protegerse y los boradados de su familia.
+RavinDra conserva muchisimas características que recuerdan a su primer ciclo [[Lumière Makris|Lumi]] como lo son la confianza en la magia, el dominio de la Urdimbre, el uso de las telas para protegerse y los boradados de su familia.
 
 ![[Bhaskara Embroidery.jpg]]
 # Referencias

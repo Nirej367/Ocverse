@@ -7,14 +7,17 @@ Peso: 73 kg
 Fecha de nacimiento: 1 de Lusuksil de 1483 de la Era de los Jóvenes
 Clase: "[[Ranger]]"
 Subclass: "[[Beast Master]]"
-Specie: "[[Earth Elemental]]"
-Subspecie: "[[Lamia]]"
+Specie: "[[Elementales]]"
+Subspecie: "[[Elemental de Tierra]]"
+Curse: "[[Lamia]]"
 Ciudad: "[[El Vidrio]]"
 Reino: "[[Pradera Lustrosa]]"
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: "[[Cafilla de las Margaritas]]"
 tags:
   - Cursed
+
 ---
 ![[Ellisium.jpg]]
 # Historia

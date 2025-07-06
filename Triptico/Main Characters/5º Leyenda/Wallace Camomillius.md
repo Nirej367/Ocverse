@@ -9,6 +9,7 @@ Clase: "[[Druid]]"
 Subclass: "[[Circle of Stars]]"
 Specie: "[[Eladrin]]"
 Ciudad: "[[Elva]]"
+Leyenda: "[[5º Leyenda]]"
 Mundo: "[[Tríptico]]"
 Related to: "[[Yeskuá]]"
 tags:
@@ -148,7 +149,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
 
-- List
+- [[Tallos Errantes]]
+	Códice recopilatorio de la flora encontrada durante sus viajes.
 - List
 - List
 # Quotations

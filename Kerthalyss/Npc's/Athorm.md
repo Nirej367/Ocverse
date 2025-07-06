@@ -1,19 +1,22 @@
 ---
-aliases:
-  - Ndombe
-  - Deidad
-  - Dios del Sol
-  - Renacido
-  - Inmortal
+aliases: 
+Personaje: "[[Npc]]"
+Altura: 
+Edad: "28"
+Peso: 
+Fecha de nacimiento: 20 de Febrero
 Clase: "[[Fighter]]"
-Subclass: "[[Battle Master]]"
-Mundo: "[[La Triada Convergente]]"
-Ciclo: "[[Llantos Viudos]]"
-Planeta: "[[Therya]]"
+Subclass: 
+Specie: "[[Minotaur]]"
+Subspecie: 
+Ciudad: 
+Reino: "[[Isiwadja]]"
+Mundo: "[[Kerthalyss]]"
+Related to: 
 tags:
-  - Deidad
 ---
-![[ndombe.jpg]]
+![[Athorn.jpg]]
+
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
 # Appearance

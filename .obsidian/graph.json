@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Moonwood  ",
       "color": {
         "a": 1,
-        "rgb": 602481
+        "rgb": 15073280
       }
     },
     {
@@ -53,6 +53,11 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.8173916578611339,
   "close": false
+=======
+  "scale": 0.22920128378831137,
+  "close": true
+>>>>>>> 30472f3daf87b2fb1dc35dcdc277550182e65e9e
 }
