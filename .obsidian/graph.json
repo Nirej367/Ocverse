@@ -1,31 +1,31 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Moonwood  ",
+      "query": "path:Moonwood",
       "color": {
         "a": 1,
-        "rgb": 15073280
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Triptico  ",
       "color": {
         "a": 1,
-        "rgb": 65390
+        "rgb": 3669760
       }
     },
     {
       "query": "path:Kerthalyss  ",
       "color": {
         "a": 1,
-        "rgb": 7885536
+        "rgb": 4819699
       }
     },
     {
@@ -39,25 +39,20 @@
       "query": "path:\"Los Legados\"  ",
       "color": {
         "a": 1,
-        "rgb": 13483539
+        "rgb": 5431473
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 11.995841995842,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.8173916578611339,
+  "scale": 1.0000000000000018,
   "close": false
-=======
-  "scale": 0.22920128378831137,
-  "close": true
->>>>>>> 30472f3daf87b2fb1dc35dcdc277550182e65e9e
 }

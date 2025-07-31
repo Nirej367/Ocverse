@@ -39,7 +39,7 @@ Mundo: "[[Moonwood]]"
 >“La profecía nos advirtió, un nuevo devoto necesitará la ayuda de la máscara en tierras muy lejanas para forzar la caída de [[Iterer Thoetutsa|una larga sombra]]. Aunque la máscara se encuentre rota, la bestia solar deberá alzarse de nuevo”
 ## 6º Tapiz
 ---
-- Personajes principales: [[RavinDra Bhaskara|RavinDra]], [[Ehssett Tethragatharas|Ehseet]], [[Lumière Bhaskara|Lumière]], [[Ayan Tethragatharas|Ayan]], [[GuadiYet Tethragatharas|GuadiYet]], [[Mictezir Bhaskara|Mictezir]], [[Vayu Sharma|Vayu]], [[Abilasha Sharma|Abilasha]]
+- Personajes principales: [[RavinDra Bhaskara|RavinDra]], [[Ehsset Tethragatharas|Ehseet]], [[Lumière Bhaskara|Lumière]], [[Ayan Tethragatharas|Ayan]], [[GuadiYet Tethragatharas|GuadiYet]], [[Mictezir Bhaskara|Mictezir]], [[Vayu Sharma|Vayu]], [[Abilasha Sharma|Abilasha]]
 - Descripción general: RavinDra como figura blanquecina alada de ropas negras, abriendo los brazos. Debajo, Ehsset embarazada, tres niños a su alrededor: Lumière, Ayan y GuadiYet, un bebé en su vientre que porta una aguja de coser: Mictezir. A la izquierda de esta escena, un segundo hombre alado, vestido de color oscuro, posa su mano sobre el hombro de una niña parecida a él. Ambos miran la escena del centro. El tapiz está sin acabar
 
 >«Y esto… Por mi parte habría acabado. Esto no sé qué es. Desconozco esta historia».

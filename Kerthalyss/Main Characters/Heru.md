@@ -18,7 +18,7 @@ Subspecie: "[[Aasimar]]"
 Ciudad: 
 Reino: "[[Isiwadja]]"
 Mundo: "[[Kerthalyss]]"
-Related to: "[[Ehssett Tethragatharas]]"
+Related to: "[[Ehsset Tethragatharas]]"
 tags:
   - Deceased
 ---

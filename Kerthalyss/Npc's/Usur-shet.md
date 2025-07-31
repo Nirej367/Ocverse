@@ -1,8 +1,11 @@
 ---
-Spouse:
-  - "[[Usur-shet]]"
-Children: "[[Heru]]"
-aliases: 
+Children:
+  - "[[Mhorniese]]"
+  - "[[Themtiese]]"
+  - "[[Kharniese]]"
+  - "[[Heru]]"
+aliases:
+  - Jaguar de Isiwadja
 Personaje: "[[Npc]]"
 Altura: 
 Edad: 
@@ -15,8 +18,6 @@ Subspecie:
 Ciudad: 
 Reino: "[[Isiwadja]]"
 Mundo: "[[Kerthalyss]]"
-Related to: 
+Related to: "[[Avani, Titán de la Tierra]]"
 tags:
-  - Deceased
 ---
-![[Amunte.jpg]]
