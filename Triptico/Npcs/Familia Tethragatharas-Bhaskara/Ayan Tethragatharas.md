@@ -20,7 +20,7 @@ tags:
 ---
 ![[Ayan Tethragatharas.jpg]]
 
-Hijo biológico de [[Ehssett Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
+Hijo biológico de [[Ehsset Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
 - [[Abilasha Sharma]]
 - [[GuadiYet Tethragatharas]]
 - [[Lumière Bhaskara]]

@@ -15,3 +15,5 @@ tags:
   - Stars
 ---
 A su muerte, acompañará a [[Ualatif Llharrorgorhadimbhor-Velmann]] al [[Tríptico]]. Eventualmente, su alma adoptará la forma de [[Ellisium Ehroan-Shandhalarum|Ellisium]].
+
+17 cm de polla

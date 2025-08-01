@@ -19,7 +19,7 @@ tags:
 ---
 ![[Abilasha Sharma_portrait.jpeg]]
 
-Fue encontrada por [[Vayu Sharma]]. Tras un larga conversación con sus parejas, fue adoptada por [[Ehssett Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
+Fue encontrada por [[Vayu Sharma]]. Tras un larga conversación con sus parejas, fue adoptada por [[Ehsset Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
 - [[Ayan Tethragatharas]]
 - [[GuadiYet Tethragatharas]]
 - [[Lumière Bhaskara]]

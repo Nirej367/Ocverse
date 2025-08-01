@@ -8,10 +8,45 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+<<<<<<< HEAD
       "query": "Los Legados",
       "color": {
         "a": 1,
         "rgb": 14214681
+=======
+      "query": "path:Moonwood",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Triptico  ",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "path:Kerthalyss  ",
+      "color": {
+        "a": 1,
+        "rgb": 4819699
+      }
+    },
+    {
+      "query": "path:\"La Tríada Convergente\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 28672
+      }
+    },
+    {
+      "query": "path:\"Los Legados\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+>>>>>>> 56621ffe2ec7cef83299f6ff1b45d1b3a6439fb5
       }
     }
   ],
@@ -25,6 +60,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.2292013594174937,
+=======
+  "scale": 1.0000000000000018,
+>>>>>>> 56621ffe2ec7cef83299f6ff1b45d1b3a6439fb5
   "close": false
 }

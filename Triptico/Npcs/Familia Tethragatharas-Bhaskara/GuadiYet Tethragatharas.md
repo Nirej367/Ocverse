@@ -21,7 +21,7 @@ tags:
 ---
 ![[GuadiYet Tethragatharas.jpg]]
 
-Hija biológico de [[Ehssett Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
+Hija biológico de [[Ehsset Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
 - [[Abilasha Sharma]]
 - [[Ayan Tethragatharas]]
 - [[Lumière Bhaskara]]

@@ -110,5 +110,5 @@ Los elogios, lejos de reconfortarlo, le resultan incómodos. **No sabe cómo enc
 
 En los momentos de vulnerabilidad, Marcus elige siempre la **intimidad del silencio**. **Odia llorar frente a otros.** No le gusta sentirse expuesto, ni débil, ni ver su reflejo en la compasión de los demás. Prefiere guardarlo todo, romperse en soledad y reconstruirse como puede. Al día siguiente, actuará como si nada hubiera ocurrido: como si las piezas de sí mismo no siguieran temblando bajo la piel.
 
-- List
+- 14 cm/ 16 en forma murcielago
 - List

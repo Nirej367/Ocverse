@@ -20,7 +20,7 @@ tags:
 ---
 ![[Mictezir Bhaskara_face.jpg]]
 
-Hijo biológico de [[Ehssett Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
+Hijo biológico de [[Ehsset Tethragatharas]] y [[RavinDra Bhaskara]]. Convive junto al resto de sus hermanos:
 - [[Abilasha Sharma]]
 - [[Ayan Tethragatharas]]
 - [[GuadiYet Tethragatharas]]

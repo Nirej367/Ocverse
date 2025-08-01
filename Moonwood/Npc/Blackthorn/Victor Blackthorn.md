@@ -47,7 +47,12 @@ Las fuerzas que impulsan a Victor son claras y profundamente arraigadas:
 
 >"Lore ipsum dolor sit amet" — Character 2
 
+Ya que su magia está basada en huesos punzantes, puedes pensarlo como alguien que:
 
+- **Conjura estructuras óseas que brotan del suelo**, como lanzas que encierran o cercan al enemigo.
+- **Invoca costillas abiertas en círculo** que se cierran lentamente si el enemigo falla una tirada.
+- **Drena calor y movimiento**, dejando una capa de escarcha fúnebre donde cae su magia.
+- **Combina huesos con sombras**, como si los huesos se animaran desde sombras proyectadas, formando trampas o garras.
 
 
 
