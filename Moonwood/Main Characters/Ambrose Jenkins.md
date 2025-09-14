@@ -82,10 +82,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 - List
 # Notable items
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.
-
-- List
-- List
+- [[Filo Solar]]
+- [[Suraj]]
 - List
 # Quotations
 ---
