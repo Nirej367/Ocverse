@@ -7,7 +7,7 @@ tags:
   - Fey
   - Species
 ---
-![[Beast Fey.png]]
+![[Beast Fey.png|591x648]]
 
 The Beasts are one of the [[Faerie|changeling]] seemings. They are the animal-blooded changelings who hunt in the tangled forests of Faerie, swim in its waters, soar in its skies, or pace in its kennels.
 # Overview

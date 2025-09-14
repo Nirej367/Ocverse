@@ -45,7 +45,7 @@ Con la última muerte, el demonio se presentó, cumpliendo su parte del trato. P
 
 Tras amasar toda la fortuna de los Blackthorne, cogió su libro y se marchó a Estados Unidos, dejando atrás los rumores que se cernían sobre ella por ser la única heredera de su familia.
 
-Allí conoció a [[Edward Blackthorn|Edward Archer]], con quien se casó y el adopto su apellido. Mientras su familia crecía, siguió acumulando riqueza y poder invocando demonios para encerrarlos nada más cumplían su trato o algunos ni siquiera eso. Relleno el libro hasta que encerró a un [[Baphomet|demonio]] demasiado poderoso, tanto que antes de quedar encerrado la [[Curse of the Black Thorns|maldijo]]: “De tú jardin solo florecerá la última flor, de tu corazón podrido la tierra en la que brota se corrompera y tú, cuya alma está atada por siempre, solo podrás ver sin poder hacer nada”. 
+Allí conoció a [[Edward Blackthorn|Edward Archer]], con quien se casó y el adopto su apellido. Mientras su familia crecía, siguió acumulando riqueza y poder invocando demonios para encerrarlos nada más cumplían su trato o algunos ni siquiera eso. Relleno el libro hasta que encerró a un [[Zart|demonio]] demasiado poderoso, tanto que antes de quedar encerrado la [[Curse of the Black Thorns|maldijo]]: “De tú jardin solo florecerá la última flor, de tu corazón podrido la tierra en la que brota se corrompera y tú, cuya alma está atada por siempre, solo podrás ver sin poder hacer nada”. 
 
 Poco tiempo después, ella entendió a que se refería. Ser madre la cambio, haciendo que su familia fuera lo más preciado, y ese demonio lo sabía.
 
