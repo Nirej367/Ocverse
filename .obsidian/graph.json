@@ -8,21 +8,21 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Moonwood",
+      "query": "line:(Moonwood)",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Tríptico",
+      "query": "line:(Tríptico)",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Kerthalyss",
+      "query": "line:(Kerthalyss)",
       "color": {
         "a": 1,
         "rgb": 1310888

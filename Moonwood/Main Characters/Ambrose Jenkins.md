@@ -1,4 +1,10 @@
 ---
+Parents:
+  - "[[Ciara Jenkins]]"
+  - "[[Maximilliam Jenkins|Maximilliam]]"
+Siblings:
+  - "[[Alaina Jenkins]]"
+Personaje: "[[Protagonista]]"
 aliases:
   - Ambrose
 Altura: 1'76

@@ -1,4 +1,10 @@
 ---
+Parents:
+  - "[[Harmony Blackthorn]]"
+  - "[[Benjamin Blackthorn]]"
+Siblings:
+  - "[[Victor Blackthorn]]"
+Personaje: "[[Protagonista]]"
 aliases:
   - Cloe
   - Amelia Blackthorn
@@ -12,7 +18,6 @@ Specie: "[[Human]]"
 Subspecie: "[[Mage]]"
 Ciudad: "[[London]]"
 Mundo: "[[Moonwood]]"
-tags:
 ---
 ![[Cloe_Sheridan.jpg]]
 

@@ -1,4 +1,5 @@
 ---
+Personaje: "[[Protagonista]]"
 aliases:
   - Rhys
   - Ualalil

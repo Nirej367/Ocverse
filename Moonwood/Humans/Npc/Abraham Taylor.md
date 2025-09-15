@@ -6,5 +6,6 @@ aliases:
 Especie: "[[Humans]]"
 Ciudad: "[[London]]"
 Mundo: "[[Moonwood]]"
+Personaje: "[[Npc]]"
 ---
 ![[Abraham Taylor.png]]

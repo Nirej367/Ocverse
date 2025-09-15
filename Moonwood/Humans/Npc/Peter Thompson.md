@@ -6,6 +6,7 @@ aliases:
 Especie: "[[Humans]]"
 Ciudad: "[[London]]"
 Mundo: "[[Moonwood]]"
+Personaje: "[[Npc]]"
 ---
 ![[Peter Thompson.jpg]]
 

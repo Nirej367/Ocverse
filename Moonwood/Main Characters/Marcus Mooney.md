@@ -1,4 +1,8 @@
 ---
+Parents:
+  - "[[Cassidy Mooney]]"
+  - "[[Margaret Mooney]]"
+Personaje: "[[Protagonista]]"
 aliases:
   - Marcus
 Altura: 1'72
@@ -11,7 +15,6 @@ Specie: "[[Fera]]"
 Subspecie: "[[Camazotz]]"
 Ciudad: "[[London]]"
 Mundo: "[[Moonwood]]"
-tags:
 ---
 ![[Marcus Mooney.jpg]]
 

@@ -1,11 +1,8 @@
 ---
-Parents:
-  - "[[Ayla Sterling]]"
-  - "[[Oliver Sterling]]"
-Siblings:
-  - "[[Elliot Sterling]]"
+Spouse:
+  - "[[Madeline Miller]]"
 aliases:
-  - Ludwig
+  - Patrick
 Especie: "[[Humans]]"
 Ciudad: "[[London]]"
 Mundo: "[[Moonwood]]"
