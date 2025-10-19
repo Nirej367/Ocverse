@@ -3,7 +3,7 @@ Parents:
   - "[[Ayla Sterling]]"
   - "[[Oliver Sterling]]"
 Siblings:
-  - "[[Victor Blackthorn]]"
+  - "[[Ludwig Sterling]]"
 Personaje: "[[Protagonista]]"
 aliases:
   - Elliot

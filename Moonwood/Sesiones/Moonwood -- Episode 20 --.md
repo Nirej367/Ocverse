@@ -53,7 +53,7 @@ Elliot: Disculpe. Entonces, ¿Dónde estoy?
 
 Elliot: Eh no se exactamente donde estamos. No deberíamos de estar aquí pero tienen pinta de poder darte respuestas. Ten cuidado con las preguntas aun así.
 
-[[Zart|Hecate]]: Oh no preocuparse, estáis justamente donde necesitáis estar. Junto con nosotras. Junto con nosotras. Os daremos todas las respuestas que buscáis para pasado, presente y futuro. Espero que vengáis con una buena ofrenda.
+[[Zart|Hecate]]: Oh no preocuparse, estáis justamente donde necesitáis estar. Junto con nosotras. Os daremos todas las respuestas que buscáis para pasado, presente y futuro. Espero que vengáis con una buena ofrenda.
 
 *Elliot saca de su bolsa el corazón de Ámbar que rescato del enfrentamiento contra el [[Doppelganger]]*
 
