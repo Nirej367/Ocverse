@@ -1,4 +1,4 @@
-Planeta cuyo nombre fue impuesto por lo elfos, se encuentra en el Sistema Mellón (Sistema Solar Noble) el cual está acompañado por diferentes planetas y lunas.
+  Planeta cuyo nombre fue impuesto por lo elfos, se encuentra en el Sistema Mellón (Sistema Solar Noble) el cual está acompañado por diferentes planetas y lunas.
 
 Sol: Caran (sol rojizo el cual es un poco más grande que el sol humano sol).
 
@@ -58,4 +58,4 @@ Cada planeta goza de unas lunas las cuales son:
 
 **ESTELA**
 
-- No tiene una luna predefinida, pero se ha podido observar que le siguen cometas a su lado que eventualmente o son consumidos por la estela que deja de cristales.
+- No tiene una luna predefinida, pero se ha podido observar que le siguen cometas a su lado que eventualmente son consumidos por la estela que deja de cristales.

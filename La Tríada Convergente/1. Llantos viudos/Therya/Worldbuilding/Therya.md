@@ -10,14 +10,14 @@ Continente Élfico: se puede dividir en varias comunidades y zonas
   Actualmente está siendo reinado por "", la cual ha sido una reina que en su reinado, todos los pueblos en este reino han gozado de una economía que progresa hacia el éxito total dando igual que es lo que produce el pueblo o el sitio de trabajo. 
 
 
-- **Ciudades tecnológicas**: gracias a una diosa reciente la cual vio el la oportunidad de la mejora tecnológica en este planeta, investigó la mejora biológica a través de la manipulación de la magia y los C0R3, batería mágica que otorga energía a las prótesis de los Mecanoides.
+- **Ciudades tecnológicas**: gracias a una diosa reciente la cual vio la oportunidad de la mejora tecnológica en este planeta, investigó la mejora biológica a través de la manipulación de la magia y los C0R3, batería mágica que otorga energía a las prótesis de los Mecanoides.
 
-   Se encuentran divididos en tres ciudades, Vinyl City (Ciudad de la música),  Escénica (Ciudad del teatro) y Metálica (Ciudad de fábrica e investigación). La última es la más grande y se encuentran todas en las costas más cercanas entre ellas. Están conectadas por cables entre ellas que pasan a través de **Aquópolis** que lo usan como nexo protector de los cables gracias a un trato con el que comparten con este país la tecnología que desarrollan a cambio de recibir un incentivo de investigación.
+   Se encuentran divididos en tres ciudades, Vinyl City (Ciudad de la música),  Escénica (Ciudad del teatro) y Metálica (Ciudad de fábrica e investigación). La última es la más grande y se encuentran todas en las costas más cercanas entre ellas. Están conectadas por cables que pasan a través de **Aquópolis** que lo usan como nexo protector de los cables gracias a un trato con el que comparten con este país la tecnología que desarrollan a cambio de recibir un incentivo de investigación.
 
 
 - **Ciudades Darkhole**: son zonas excavadas en montañas, sostenidas por una magia eterna que permite vivir en tranquilidad sin miedo a que se caiga sobre ellos la montaña. Tienen excavadas las montañas donde les han quitado la carne del interior y se ha quedado un espacio hueco que ha sido aprovechado para vivir y crear ciudades en altura. 
 
-  Se llenó de primeras de enanos pero fueron invadidos por especies intentando ocultarse de los elfos los cuales tenían un tratado de paz y con el tiempo se hicieron barrios rojos para los íncubos y súcubos, zonas bajo tierra para los Drow, Myconoides y gnomos y zonas cerca del agua para tritones y elementales de agua. La entrada se ha ido llenando de viviendas y barrios para todas las personas que han decidido vivir afuera después de terminar La Gran Persecución. 
+  Se llenó de primeras de enanos pero sufrieron una inmigración  por especies intentando ocultarse de los elfos con los cuales tenían un tratado de paz y con el tiempo se hicieron barrios rojos para los íncubos y súcubos, zonas bajo tierra para los Drow, Myconoides y gnomos y zonas cerca del agua para tritones y elementales de agua. La entrada se ha ido llenando de viviendas y barrios para todas las personas que han decidido vivir afuera después de terminar La Gran Persecución. 
 
   No solo se encuentra en las zonas inferiores cercanas al pantano, sino que también han hecho pasillos bajo tierra que permite el paso de una ciudad Darkhole a otra que se encuentra al lado de la Zona de las Arenas.
 
