@@ -15,7 +15,7 @@ Fecha de nacimiento:
 Clase: "[[Rogue]]"
 Subclass: "[[Swashbuckler]]"
 Specie: "[[Lizardfolk]]"
-Subspecie:
+Subspecie: Dirtyones
 Ciudad:
 Reino: Pantano Negro
 Mundo: "[[La Triada Convergente]]"
