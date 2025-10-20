@@ -8,16 +8,17 @@ Siblings:
   - "[[Pri'a]]"
 aliases:
 Personaje: "[[Protagonista]]"
-Altura:
-Edad:
-Peso:
-Fecha de nacimiento:
+Altura (piernas): "180"
+Altura (cola): "200"
+Edad: 20.5 (41 humanos)
+Peso: 72 kg
+Fecha de nacimiento: 21 de Septiembre
 Clase: "[[Rogue]]"
 Subclass: "[[Swashbuckler]]"
 Specie: "[[Lizardfolk]]"
 Subspecie: Dirtyones
-Ciudad:
-Reino: Pantano Negro
+Ciudad: Throd'en
+Reino: Praderas fronterizas
 Mundo: "[[La Triada Convergente]]"
 Related to:
 tags:

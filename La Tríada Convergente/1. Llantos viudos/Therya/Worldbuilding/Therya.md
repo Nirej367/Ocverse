@@ -7,7 +7,7 @@ Continente Élfico: se puede dividir en varias comunidades y zonas
 
 - **Ciudad Therya y conglomerado élfico**: ha sido el lugar de nacimiento de los elfos, los cuales se dice que nacieron como evolución de los homínidos con magia. Tuvieron guerras por territorio y ranking social con otras razas, incluyéndose la guerra vegetal de la liberación de los Orcos la cual es la más reciente.
 
-  Actualmente está siendo reinado por "", la cual ha sido una reina que en su reinado, todos los pueblos en este reino han gozado de una economía que progresa hacia el éxito total dando igual que es lo que produce el pueblo o el sitio de trabajo. 
+  Actualmente está siendo reinado por "**Virginia**", la cual ha sido una reina que en su reinado, todos los pueblos en este reino han gozado de una economía que progresa hacia el éxito total dando igual que es lo que produce el pueblo o el sitio de trabajo. 
 
 
 - **Ciudades tecnológicas**: gracias a una diosa reciente la cual vio la oportunidad de la mejora tecnológica en este planeta, investigó la mejora biológica a través de la manipulación de la magia y los C0R3, batería mágica que otorga energía a las prótesis de los Mecanoides.
@@ -33,7 +33,7 @@ Continente Élfico: se puede dividir en varias comunidades y zonas
 - **Praderas del pantano**: tierras que se encuentran cercanas al pantano, en las cuales se ubican pueblos que hacen de puntos de encuentro para las compañías o personas que no quieren ser vistas por las autoridades de los reinos.
 
 
-- **El Pantano**: extenso territorio que hace de frontera física entre el Reino Élfico y la Zona de las Arenas y compañía. Lleno de vida, monstruosidades y trampas, se dice que es un ecosistema que castiga a los aventureros novatos y a aquellos que no pueden ver el peligro. Se sabe que hay territorios para diferentes Reyes, **La reina insecto**, **La reina araña**, **El rey del lago** y la difunta **Reina del bosque**. Aunque algunos también han dicho que una nueva criatura ha aparecido pero solo se sabe gracias a los que que han sobrevivido a un encuentro con el, es que pide el respeto de su zona, sus árboles, sus criaturas y a él. Aquellos que por estupidez o ignorancia han incumplido esos términos han desaparecido en una noche siendo los únicos restos la mercancía desprendida en el suelo y la sangre que dejaron atrás.  
+- **El Pantano Negro**: extenso territorio que hace de frontera física entre el Reino Élfico y la Zona de las Arenas y compañía. Lleno de vida, monstruosidades y trampas, se dice que es un ecosistema que castiga a los aventureros novatos y a aquellos que no pueden ver el peligro. Se sabe que hay territorios para diferentes Reyes, **La reina insecto**, **La reina araña**, **El rey del lago** y la difunta **Reina del bosque**. Aunque algunos también han dicho que una nueva criatura ha aparecido pero solo se sabe gracias a los que que han sobrevivido a un encuentro con el, es que pide el respeto de su zona, sus árboles, sus criaturas y a él. Aquellos que por estupidez o ignorancia han incumplido esos términos han desaparecido en una noche siendo los únicos restos la mercancía desprendida en el suelo y la sangre que dejaron atrás.  
 
 
 

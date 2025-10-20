@@ -10,9 +10,9 @@ Clase: "[[Fighter]]"
 Subclass: "[[Battle Master]]"
 Specie: Lamia
 Subspecie: Dusa
-Ciudad: El Pantano
+Ciudad: El Pantano Negro
 Reino: Reino de los elfos
-Mundo: Therya
+Mundo: "[[La Triada Convergente]]"
 Related to:
 tags:
   - Example
