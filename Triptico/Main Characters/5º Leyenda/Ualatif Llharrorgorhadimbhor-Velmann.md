@@ -345,6 +345,8 @@ Recibe de [[Marchitte]] unos somníferos fuertes para contrarrestar su preocupan
 Eventualmente, sin que ellos aún lo sepan, se reencuentra con su antiguo grupo reencarnado: [[RavinDra Bhaskara|RavinDra]] como la reencarnación de [[Ambrose Jenkins|Ambrose]], [[Ellisium Ehroan-Shandhalarum|Ellisium]] como la reencarnación de [[Elliot Sterling|Elliot]], [[Ellan-Thys Quebrantavientos|Ellan-Thys]] como la reencarnación de [[Cloe Sheridan|Cloe]], y [[Wallace Camomillius|Wallace]] como reencarnación de [[Marcus Mooney|Marcus]]. 
 
 En su trayecto, conoce también a individuos no pertenecientes a su grupo original, como es el caso de [[El Thumbstall que vio la gracia de dios y recibe el nombre de Tirileel|Tirileel]] o [[Mo Pinso 69.5.A1|Mo Pinso]], y se une aún más a otros como [[Ehsset Tethragatharas|Ehsset]], reencarnación de [[Heru|Heru]].  
+
+[[Shivab Cyani ]] intenta relacionarse con él. 
 ### Event 1
 ### Event 2
 ## Future (Retiro)
