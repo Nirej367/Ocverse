@@ -1,21 +1,24 @@
 ---
+Parents:
 aliases:
-Personaje:
-Altura:
-Edad:
-Peso:
-Fecha de nacimiento:
-Clase:
-Subclass:
-Specie:
+Personaje: "[[Protagonista]]"
+Altura: "150"
+Edad: 7 (14 humanos)
+Peso: 60 kg
+Fecha de nacimiento: 14 de Octubre
+Clase: Artificier
+Subclass: Battle Smith
+Specie: Mechanicus
 Subspecie:
-Ciudad:
-Reino:
-Mundo:
+Ciudad: Vinyl City
+Reino: Reino tecnológico
+Mundo: "[[La Triada Convergente]]"
 Related to:
 tags:
   - Example
 ---
+![[Curabitur Aimus.jpeg]] 
+
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
 # Appearance
