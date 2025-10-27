@@ -1,4 +1,19 @@
 ---
+Parents:
+  - "[[Rukh Bhaskara]]"
+  - "[[Ahamara Bhaskara]]"
+Siblings:
+  - "[[Ashoka Bhaskara]]"
+  - "[[Ranjit Bhaskara]]"
+Spouse:
+  - "[[Ehsset Tethragatharas]]"
+Children:
+  - "[[GuadiYet Tethragatharas]]"
+  - "[[Ayan Tethragatharas]]"
+  - "[[Lumière Bhaskara]]"
+  - "[[Mictezir Bhaskara]]"
+  - "[[Abilasha Sharma]]"
+Relatives: "[[Chandra Bhaskara]]"
 aliases:
   - RavinDra
   - Ravindra

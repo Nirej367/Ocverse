@@ -1,21 +1,20 @@
 ---
 Parents:
 aliases:
+  - Curabitur
+  - Aimus
 Personaje: "[[Protagonista]]"
 Altura: "150"
 Edad: 7 (14 humanos)
 Peso: 60 kg
 Fecha de nacimiento: 14 de Octubre
-Clase: Artificier
-Subclass: Battle Smith
-Specie: Mechanicus
+Clase: "[[Artificier]]"
+Subclass: "[[Battle Smith]]"
+Specie: "[[Mechanicus]]"
 Subspecie:
-Ciudad: Vinyl City
-Reino: Reino tecnológico
+Ciudad: "[[Vinyl City]]"
+Reino: "[[Reino tecnológico]]"
 Mundo: "[[La Triada Convergente]]"
-Related to:
-tags:
-  - Example
 ---
 ![[Curabitur Aimus.jpeg]] 
 
@@ -78,7 +77,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 
 - List
 - List
-
-# Reference
----
-- https://docs.google.com/document/d/19YSB-1vkTg39-SNPhxIxKzSfj88U9WQHFdxALF2HW88/edit?tab=t.0

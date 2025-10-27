@@ -17,11 +17,9 @@ Clase: "[[Rogue]]"
 Subclass: "[[Swashbuckler]]"
 Specie: "[[Lizardfolk]]"
 Subspecie: Dirtyones
-Ciudad: Throd'en
-Reino: Praderas fronterizas
+Ciudad: "[[Throd'en]]"
+Reino: "[[Praderas Fronterizas]]"
 Mundo: "[[La Triada Convergente]]"
-Related to:
-tags:
 ---
 ![[Manak'o.jpg]]
 

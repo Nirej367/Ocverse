@@ -1,4 +1,11 @@
 ---
+Parents:
+Siblings:
+  - "[[Hydregia Ehroan-Shandallarum]]"
+Spouse:
+  - "[[Wallace Camomillius]]"
+Children:
+  - "[[Fiorenza Ehroan-Shandhalarum]]"
 aliases:
   - Ellisum
 Altura: 1'80
@@ -17,7 +24,6 @@ Mundo: "[[Tríptico]]"
 Related to: "[[Cafilla de las Margaritas]]"
 tags:
   - Cursed
-
 ---
 ![[Ellisium.jpg]]
 # Historia

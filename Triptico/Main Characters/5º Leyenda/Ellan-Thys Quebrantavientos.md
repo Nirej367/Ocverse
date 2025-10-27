@@ -1,4 +1,6 @@
 ---
+Spouse:
+Children:
 aliases:
   - Ellan-thys
   - Ellanthys

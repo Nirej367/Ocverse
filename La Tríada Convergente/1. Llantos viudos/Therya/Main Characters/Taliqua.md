@@ -8,14 +8,11 @@ Peso: 150 kg
 Fecha de nacimiento: 15 de Agosto
 Clase: "[[Fighter]]"
 Subclass: "[[Battle Master]]"
-Specie: Lamia
+Specie: "[[Lamia]]"
 Subspecie: Dusa
-Ciudad: El Pantano Negro
-Reino: Reino de los elfos
+Ciudad: "[[El Pantano Negro]]"
+Reino: "[[Reino de los elfos]]"
 Mundo: "[[La Triada Convergente]]"
-Related to:
-tags:
-  - Example
 ---
 ![[Taliqua.png]] 
 
@@ -93,10 +90,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 
 - List
 - List
-
-# Reference
----
-- https://docs.google.com/document/d/19YSB-1vkTg39-SNPhxIxKzSfj88U9WQHFdxALF2HW88/edit?tab=t.0
 
 
 # Images

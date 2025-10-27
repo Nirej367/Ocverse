@@ -6,8 +6,8 @@ aliases:
   - Dios de la herreria
   - Dotado
   - Inmortal
-Clase: Wizard
-Subclass: Evoker
+Clase: "[[Wizard]]"
+Subclass: "[[Evoker]]"
 Mundo: "[[La Triada Convergente]]"
 Ciclo: "[[Llantos Viudos]]"
 Planeta: "[[Therya]]"

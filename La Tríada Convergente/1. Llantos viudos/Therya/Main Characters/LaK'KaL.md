@@ -1,20 +1,17 @@
 ---
-aliases: 
-Personaje:
-Altura: 
-Edad: 
-Peso: 
-Fecha de nacimiento: 
-Clase: 
-Subclass: 
-Specie: 
-Subspecie: 
-Ciudad: 
-Reino: 
-Mundo: 
-Related to: 
-tags:
-  - Example
+aliases:
+Personaje: "[[Protagonista]]"
+Altura:
+Edad:
+Peso:
+Fecha de nacimiento:
+Clase:
+Subclass:
+Specie:
+Subspecie:
+Ciudad:
+Reino:
+Mundo: "[[La Triada Convergente]]"
 ---
 **Character name is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus turpis vel blandit. Aliquam iaculis nibh eleifend fermentum accumsan. Donec elementum sagittis rutrum. Phasellus non lectus eget enim feugiat pulvinar quis quis metus.**
 
@@ -75,7 +72,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis luctus
 
 - List
 - List
-
-# Reference
----
-- https://docs.google.com/document/d/19YSB-1vkTg39-SNPhxIxKzSfj88U9WQHFdxALF2HW88/edit?tab=t.0
