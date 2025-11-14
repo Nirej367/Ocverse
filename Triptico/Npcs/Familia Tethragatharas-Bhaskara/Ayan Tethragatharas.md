@@ -1,4 +1,12 @@
 ---
+Parents:
+  - "[[Ehsset Tethragatharas]]"
+  - "[[RavinDra Bhaskara]]"
+Siblings:
+  - "[[GuadiYet Tethragatharas]]"
+  - "[[Lumière Bhaskara]]"
+  - "[[Mictezir Bhaskara]]"
+  - "[[Abilasha Sharma]]"
 aliases:
   - Ayan
 Altura: 1'87
@@ -9,11 +17,11 @@ Clase: "[[Wizard]]"
 Subclass: "[[Order of Scribes]]"
 Specie: "[[Elementales]]"
 Subspecie: "[[Elemental de Tierra]]"
-Ciudad: 
-Reino: 
+Ciudad:
+Reino:
 Leyenda: "[[6º Leyenda]]"
 Mundo: "[[Tríptico]]"
-Related to: 
+Related to:
 tags:
   - Roca
   - Minerales

@@ -1,4 +1,12 @@
 ---
+Parents:
+  - "[[Ehsset Tethragatharas]]"
+  - "[[RavinDra Bhaskara]]"
+Siblings:
+  - "[[Ayan Tethragatharas]]"
+  - "[[Mictezir Bhaskara]]"
+  - "[[Abilasha Sharma]]"
+  - "[[GuadiYet Tethragatharas]]"
 aliases:
   - Lumi II
   - Golden Sand
@@ -11,11 +19,11 @@ Clase: "[[Warlock]]"
 Subclass: "[[Hexblade]]"
 Specie: "[[Elementales]]"
 Subspecie: "[[Elemental de Tierra]]"
-Ciudad: 
-Reino: 
+Ciudad:
+Reino:
 Leyenda: "[[6º Leyenda]]"
 Mundo: "[[Tríptico]]"
-Related to: 
+Related to:
 tags:
   - Sand
 ---

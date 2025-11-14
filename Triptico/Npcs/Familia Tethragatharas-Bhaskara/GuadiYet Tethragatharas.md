@@ -1,4 +1,12 @@
 ---
+Parents:
+  - "[[Ehsset Tethragatharas]]"
+  - "[[RavinDra Bhaskara]]"
+Siblings:
+  - "[[Ayan Tethragatharas]]"
+  - "[[Lumière Bhaskara]]"
+  - "[[Mictezir Bhaskara]]"
+  - "[[Abilasha Sharma]]"
 aliases:
   - GuadiYet
   - Guadi

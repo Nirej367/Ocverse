@@ -1,4 +1,12 @@
 ---
+Parents:
+  - "[[Ehsset Tethragatharas]]"
+  - "[[RavinDra Bhaskara]]"
+Siblings:
+  - "[[Ayan Tethragatharas]]"
+  - "[[Lumière Bhaskara]]"
+  - "[[Abilasha Sharma]]"
+  - "[[GuadiYet Tethragatharas]]"
 aliases:
   - Mictezir
   - Angel of Goodbyes
@@ -10,12 +18,12 @@ Fecha de nacimiento: 28 de Novvuksil de 1688 de la Era de los Jóvenes
 Clase: "[[Cleric]]"
 Subclass: "[[Grave Domain]]"
 Specie: "[[Aasimar]]"
-Subspecie: 
-Ciudad: 
-Reino: 
+Subspecie:
+Ciudad:
+Reino:
 Leyenda: "[[6º Leyenda]]"
 Mundo: "[[Tríptico]]"
-Related to: 
+Related to:
 tags:
 ---
 ![[Mictezir Bhaskara_face.jpg]]
