@@ -21,7 +21,7 @@ The Wyrm counts many among its servants. Some serve knowingly, some unknowingly.
 ---
 - [[Banes]]
 - [[Black Spiral Dancers]]
-- [[Vampires]]
+- [[Vampire]]
 ## Unwitting servants
 ---
 - [[Demon]]

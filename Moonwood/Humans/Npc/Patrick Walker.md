@@ -9,3 +9,4 @@ Mundo: "[[Moonwood]]"
 Related to: "[[Sterling]]"
 Personaje: "[[Npc]]"
 ---
+Su trabajo consistía en cuidar del jardín y de las tierras de cultivo de los Sterling.

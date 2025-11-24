@@ -17,7 +17,7 @@ Several important activities support Middle Temple’s core functions. In additi
 # Known Students
 ---
 - [[Ambrose Jenkins]]
-- [[Barbara White]]
+- [[Barbara White I]]
 - [[Gertrude Robinson]]
 - [[Marcus Mooney]]
 - [[Osana Najimi]]
