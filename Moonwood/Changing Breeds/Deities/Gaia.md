@@ -1,11 +1,13 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
 aliases:
   - Madre Tierra
   - Pachamama
+Specie: "[[Spirits]]"
+Related to: "[[Garou]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
 **Gaia** is the Earth in both a [[Physical Realm|physical]] and a [[Spiritual Realm|spiritual sense]]; the Mother Goddess of all living things.
 # Overview

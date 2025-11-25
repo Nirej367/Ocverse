@@ -1,15 +1,19 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
 aliases:
   - Ella-Laraña
   - Diosa araña
   - La Tejedora
   - Ananasa
+Specie: "[[Spirits]]"
+Related to: "[[Ananasi]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
-**[[Weaver|Ananasa]]** is a [[Celestines|celestine|]] as well as her [[Spirits#Patron Spirits|patron spirit]], supreme queen of the [[Ananasi]].
+![[Weaver.webp]]
+
+**[[Weaver|Ananasa]]** is a [[Celestines|celestine|]] as well as a [[Spirits#Patron Spirits|patron spirit]], supreme queen of the [[Ananasi]].
 # Overview
 ---
 The [[Ananasi]] derive their name from Ananasa, and they serve her and her alone. Her agenda is to restore balance to the [[Triat]]. 

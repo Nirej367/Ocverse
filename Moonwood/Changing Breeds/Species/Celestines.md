@@ -1,12 +1,11 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Celestiales
 Lore: "[[Fera]]"
 Related to: "[[Investiture]]"
-Ciudad: "[[Spiritual Realm]]"
+Reino: "[[Spiritual Realm]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 The Celestines are celestial [[Spirits|spirit]]s in the mythology of the [[Fera]]. Their power is equal to the ancient gods. They rule from the [[Spiritual Realm]] and are often worshiped by both the [[Garou]] and some [[Humans|humans]].
 

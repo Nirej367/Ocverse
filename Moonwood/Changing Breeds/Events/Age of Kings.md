@@ -1,8 +1,7 @@
 ---
+Type: "[[Event]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Event
 ---
 # Overview
 ---

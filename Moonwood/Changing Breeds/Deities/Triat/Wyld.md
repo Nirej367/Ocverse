@@ -1,8 +1,9 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
+Specie: "[[Spirits]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
 The **Wyld** is one of the three spirits of the [[Triat]]. The Wyld is a generative force: it creates absolute Chaos, which is given order by the [[Weaver]] before it is destroyed and returned to chaos by the [[Wyrm]]. Where the other two of the Triat went insane, the Wyld is diminishing, being squashed out by the Weaver, and destroyed recklessly by the Wyrm.
 

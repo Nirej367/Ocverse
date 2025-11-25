@@ -1,10 +1,9 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Wereserpent
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 **Nagah** are wereserpents, one of the surviving [[Fera|Changing Breeds]].
 # Overview

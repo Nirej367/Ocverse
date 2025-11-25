@@ -1,10 +1,11 @@
 ---
+Type: "[[Magic]]"
 aliases:
   - Rito del huevo
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Magic
+Related to:
+  - "[[Corax]]"
 ---
 **Rite of the Fetish Egg** is a rite practiced exclusively by the [[Corax]] to create new members of their species.
 # Overview

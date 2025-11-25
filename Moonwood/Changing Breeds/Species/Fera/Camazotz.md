@@ -1,10 +1,9 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Werebats
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 Camazotz were [[Camazotz|Werebats]], one of the extinct [[Fera|Changing Breeds]].
 # Overview

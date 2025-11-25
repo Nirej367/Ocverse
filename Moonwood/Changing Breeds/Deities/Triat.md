@@ -4,8 +4,6 @@ aliases:
   - El triat
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
 The **Triat** are three of the greatest entities in the [[Spirits|spiritual]] hierarchy: the [[Wyld]], the [[Weaver]], and the [[Wyrm]].
 # Overview

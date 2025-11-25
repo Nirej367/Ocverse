@@ -1,14 +1,16 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
 aliases:
   - Bat
   - Padre Zotz
   - El Caido
   - Señor de Mictlán
   - Señor de Xibalbá
+Specie: "[[Spirits]]"
+Related to: "[[Camazotz]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
 ![[Zotz (2).jpg]]
 

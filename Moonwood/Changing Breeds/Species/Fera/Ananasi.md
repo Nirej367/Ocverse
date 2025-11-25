@@ -1,11 +1,10 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Werespiders
   - Damhàn
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 **Ananasi** are werespiders, one of the surviving [[Fera|Changing Breeds]] of the World Of Darkness. They call themselves _Damhàn_.
 # Overview

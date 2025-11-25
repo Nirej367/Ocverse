@@ -1,11 +1,10 @@
 ---
+Type: "[[Event]]"
 aliases:
   - Guerra de la rabia
   - La Gran Cacería
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Event
 ---
 # Overview
 ---

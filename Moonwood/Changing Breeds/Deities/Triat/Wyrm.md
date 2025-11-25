@@ -1,9 +1,13 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
+Specie: "[[Spirits]]"
+Related to: "[[Black Spiral Dancers]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
+![[Wyrm.jpg]]
+
 The Wyrm is one of the three incalculably [[Celestines|powerful]] [[Spirits|spirits]] comprising the [[Triat]].
 # Overview
 ---

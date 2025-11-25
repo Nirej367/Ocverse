@@ -1,8 +1,7 @@
 ---
+Type: "[[Location]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Localización
 ---
 A Caern is a sacred place to the [[Garou]], where they can meet among themselves and make contact with the [[Spiritual Realm|spirit realms]]. A desecrated caern is called a "[[Pit]]", and [[Black Spiral Dancers]] caerns are referred to as "[[Pit|Hive]]s".
 # Overview

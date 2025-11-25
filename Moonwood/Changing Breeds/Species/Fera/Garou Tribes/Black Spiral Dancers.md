@@ -1,11 +1,10 @@
 ---
+Type: "[[Tribes]]"
 aliases:
   - Danzantes de la Espiral Negra
 Lore: "[[Fera]]"
 Related to: "[[Tribes]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 <div align="center">
   <img src="Black Spiral Dancers.png" alt="Símbolo Black Spiral Dancers" width="200"/>

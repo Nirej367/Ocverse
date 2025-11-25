@@ -1,11 +1,11 @@
 ---
+Type: "[[Magic]]"
 aliases:
   - Rabia
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-Related to: "[[Investiture]]"
-tags:
-  - Magic
+Related to:
+  - "[[Garou]]"
 ---
 **Rage** is a [[Investiture|mystical wellspring]] of primal anger granted to some [[Fera]], specifically the [[Garou]]. It allows them to move at great speed, shrug off mighty wounds, and change forms quickly.
 # Overview

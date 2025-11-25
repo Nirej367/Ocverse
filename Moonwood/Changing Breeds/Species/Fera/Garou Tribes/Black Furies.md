@@ -1,11 +1,10 @@
 ---
+Type: "[[Tribes]]"
 aliases:
   - Las Furias Negras
 Lore: "[[Fera]]"
 Related to: "[[Tribes]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 ![[Black Furies.png]]
 

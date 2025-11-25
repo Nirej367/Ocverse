@@ -1,10 +1,9 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Wererat
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 Ratkin are wererats, one of the [[Fera|Changing Breeds]] of the Classic World of Darkness.
 # Overview

@@ -1,12 +1,11 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Espiritus
   - Almas de Bestia
 Lore: "[[Fera]]"
 Ciudad: "[[Spiritual Realm]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 **Spirits** are disembodied entities that originate in, and usually dwell in, the [[Cognitive Realm|Umbra]] - for that reason, some [[Mage]]s call them the "**Umbrood**".
 # Overview

@@ -1,10 +1,9 @@
 ---
+Type: "[[Specie]]"
 aliases:
   - Wereraven
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 **Corax** are one of the [[Fera|changing breeds]].They are wereravens.
 # Overview

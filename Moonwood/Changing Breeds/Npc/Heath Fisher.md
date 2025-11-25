@@ -2,19 +2,9 @@
 aliases:
   - Heath
   - Fisher
-Altura: 
-Edad: 
-Peso: 
-Fecha de nacimiento: 
-Clase: 
-Subclass: 
-Specie: 
-Subspecie: 
 Ciudad: "[[London]]"
-Reino: 
 Mundo: "[[Moonwood]]"
 Related to: "[[Iterer Thoetutsa]]"
-tags: []
 ---
 ![[Aspecto de los gemelos en su adultez_.jpg]]
 

@@ -1,11 +1,12 @@
 ---
+Type: "[[Magic]]"
 aliases:
   - Memoria
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-Related to: "[[Investiture]]"
-tags:
-  - Magic
+Related to:
+  - "[[Nagah]]"
+  - "[[Mokolé]]"
 ---
 **Mnesis**, also called _the Memory_ by the [[Mokolé]], is a peculiar [[Investiture|Gnosis]] possessed only by werereptiles, including the Mokolé themselves and rare cases among the [[Nagah]]. This ability drives the core purpose dedicated to preserving knowledge. Since the memories do not degrade with time, it is perfect for the collection of enormous quantities of facts. 
 

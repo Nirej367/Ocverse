@@ -1,4 +1,6 @@
 ---
+Personaje: "[[Npc]]"
+Type: "[[Deity]]"
 aliases:
   - Madre Cuervo
   - Badb
@@ -8,11 +10,13 @@ aliases:
   - Raven
   - Crow
   - Corneja
+Specie: "[[Spirits]]"
+Related to: "[[Corax]]"
 Lore: "[[Fera]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Deidad
 ---
+![[The Morrigan.webp]]
+
 Raven is a [[Spirits|Spirit]] that greatly supports the [[Corax]].
 # Badb
 ---

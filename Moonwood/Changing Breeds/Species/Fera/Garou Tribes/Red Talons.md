@@ -1,11 +1,10 @@
 ---
+Type: "[[Tribes]]"
 aliases:
   - Las Garras Rojas
 Lore: "[[Fera]]"
 Related to: "[[Tribes]]"
 Mundo: "[[Moonwood]]"
-tags:
-  - Species
 ---
 ![[Red Talons.png]]
 The **Red Talons** are the only tribe among the [[Garou]] that is exclusively lupine in nature, shunning humanity completely as a blight on the Earth.
